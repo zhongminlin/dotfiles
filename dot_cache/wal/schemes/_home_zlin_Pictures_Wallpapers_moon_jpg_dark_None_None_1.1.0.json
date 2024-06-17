@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/Wallpapers/moon.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#120906",
+        "foreground": "#e7ded0",
+        "cursor": "#e7ded0"
+    },
+    "colors": {
+        "color0": "#120906",
+        "color1": "#BD8A74",
+        "color2": "#617D81",
+        "color3": "#38858E",
+        "color4": "#678D8C",
+        "color5": "#9FA093",
+        "color6": "#DEA596",
+        "color7": "#e7ded0",
+        "color8": "#a19b91",
+        "color9": "#BD8A74",
+        "color10": "#617D81",
+        "color11": "#38858E",
+        "color12": "#678D8C",
+        "color13": "#9FA093",
+        "color14": "#DEA596",
+        "color15": "#e7ded0"
+    }
+}

@@ -1,0 +1,21 @@
+set $wallpaper /home/zlin/Pictures/city.png
+
+set $background #05060a
+set $foreground #d2d9d8
+
+set $color0 #05060a
+set $color1 #555A5C
+set $color2 #94876F
+set $color3 #3D5D81
+set $color4 #57708C
+set $color5 #75899C
+set $color6 #92A1AC
+set $color7 #d2d9d8
+set $color8 #939797
+set $color9 #555A5C
+set $color10 #94876F
+set $color11 #3D5D81
+set $color12 #57708C
+set $color13 #75899C
+set $color14 #92A1AC
+set $color15 #d2d9d8

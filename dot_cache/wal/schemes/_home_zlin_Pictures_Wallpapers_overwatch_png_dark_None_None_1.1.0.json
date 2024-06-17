@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/Wallpapers/overwatch.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0a08",
+        "foreground": "#dfded2",
+        "cursor": "#dfded2"
+    },
+    "colors": {
+        "color0": "#0d0a08",
+        "color1": "#9D5338",
+        "color2": "#BE9F53",
+        "color3": "#687881",
+        "color4": "#788A87",
+        "color5": "#58B8E8",
+        "color6": "#A2A8A2",
+        "color7": "#dfded2",
+        "color8": "#9c9b93",
+        "color9": "#9D5338",
+        "color10": "#BE9F53",
+        "color11": "#687881",
+        "color12": "#788A87",
+        "color13": "#58B8E8",
+        "color14": "#A2A8A2",
+        "color15": "#dfded2"
+    }
+}

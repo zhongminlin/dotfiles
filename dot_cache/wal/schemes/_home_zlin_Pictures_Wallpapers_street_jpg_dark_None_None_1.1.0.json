@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/Wallpapers/street.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#17131e",
+        "foreground": "#c8c9e2",
+        "cursor": "#c8c9e2"
+    },
+    "colors": {
+        "color0": "#17131e",
+        "color1": "#CA966C",
+        "color2": "#655B94",
+        "color3": "#4B4DA0",
+        "color4": "#8F6994",
+        "color5": "#9267BD",
+        "color6": "#A394A8",
+        "color7": "#c8c9e2",
+        "color8": "#8c8c9e",
+        "color9": "#CA966C",
+        "color10": "#655B94",
+        "color11": "#4B4DA0",
+        "color12": "#8F6994",
+        "color13": "#9267BD",
+        "color14": "#A394A8",
+        "color15": "#c8c9e2"
+    }
+}

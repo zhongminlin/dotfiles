@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/Wallpapers/fighters.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0b0d",
+        "foreground": "#c2b7a7",
+        "cursor": "#c2b7a7"
+    },
+    "colors": {
+        "color0": "#0a0b0d",
+        "color1": "#54433A",
+        "color2": "#694C35",
+        "color3": "#343848",
+        "color4": "#41404A",
+        "color5": "#50494B",
+        "color6": "#62595D",
+        "color7": "#c2b7a7",
+        "color8": "#878074",
+        "color9": "#54433A",
+        "color10": "#694C35",
+        "color11": "#343848",
+        "color12": "#41404A",
+        "color13": "#50494B",
+        "color14": "#62595D",
+        "color15": "#c2b7a7"
+    }
+}

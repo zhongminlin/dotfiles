@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/Wallpapers/Aesthetic2.png",
+    "alpha": "100",
+    "special": {
+        "background": "#232042",
+        "foreground": "#d0daf0",
+        "cursor": "#d0daf0"
+    },
+    "colors": {
+        "color0": "#232042",
+        "color1": "#A491AD",
+        "color2": "#A893D4",
+        "color3": "#91B1F0",
+        "color4": "#ACB7ED",
+        "color5": "#CAA9E0",
+        "color6": "#9CC1F3",
+        "color7": "#d0daf0",
+        "color8": "#9198a8",
+        "color9": "#A491AD",
+        "color10": "#A893D4",
+        "color11": "#91B1F0",
+        "color12": "#ACB7ED",
+        "color13": "#CAA9E0",
+        "color14": "#9CC1F3",
+        "color15": "#d0daf0"
+    }
+}

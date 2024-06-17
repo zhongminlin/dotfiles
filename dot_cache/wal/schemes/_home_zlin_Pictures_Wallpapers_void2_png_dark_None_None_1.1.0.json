@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/Wallpapers/void2.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101218",
+        "foreground": "#a5ccec",
+        "cursor": "#a5ccec"
+    },
+    "colors": {
+        "color0": "#101218",
+        "color1": "#D2B172",
+        "color2": "#E3BE79",
+        "color3": "#99C47A",
+        "color4": "#A467B9",
+        "color5": "#C678DD",
+        "color6": "#C979E0",
+        "color7": "#a5ccec",
+        "color8": "#738ea5",
+        "color9": "#D2B172",
+        "color10": "#E3BE79",
+        "color11": "#99C47A",
+        "color12": "#A467B9",
+        "color13": "#C678DD",
+        "color14": "#C979E0",
+        "color15": "#a5ccec"
+    }
+}

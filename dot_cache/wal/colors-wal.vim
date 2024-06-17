@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/zlin/Pictures/city.png"
+let background = "#05060a"
+let foreground = "#d2d9d8"
+let cursor     = "#d2d9d8"
+
+" Colors
+let color0  = "#05060a"
+let color1  = "#555A5C"
+let color2  = "#94876F"
+let color3  = "#3D5D81"
+let color4  = "#57708C"
+let color5  = "#75899C"
+let color6  = "#92A1AC"
+let color7  = "#d2d9d8"
+let color8  = "#939797"
+let color9  = "#555A5C"
+let color10 = "#94876F"
+let color11 = "#3D5D81"
+let color12 = "#57708C"
+let color13 = "#75899C"
+let color14 = "#92A1AC"
+let color15 = "#d2d9d8"

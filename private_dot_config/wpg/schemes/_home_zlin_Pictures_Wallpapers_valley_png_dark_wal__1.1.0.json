@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/Wallpapers/valley.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0B11",
+        "foreground": "#d2d9d8",
+        "cursor": "#d2d9d8"
+    },
+    "colors": {
+        "color0": "#0A0B11",
+        "color1": "#6B645F",
+        "color2": "#7F7777",
+        "color3": "#7B886F",
+        "color4": "#8D9076",
+        "color5": "#8797A7",
+        "color6": "#98A4A5",
+        "color7": "#d2d9d8",
+        "color8": "#939797",
+        "color9": "#6B645F",
+        "color10": "#7F7777",
+        "color11": "#7B886F",
+        "color12": "#8D9076",
+        "color13": "#8797A7",
+        "color14": "#98A4A5",
+        "color15": "#d2d9d8"
+    }
+}

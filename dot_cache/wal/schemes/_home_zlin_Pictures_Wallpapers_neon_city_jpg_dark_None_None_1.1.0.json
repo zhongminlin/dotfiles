@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/Wallpapers/neon_city.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0F15",
+        "foreground": "#a3c5c8",
+        "cursor": "#a3c5c8"
+    },
+    "colors": {
+        "color0": "#0A0F15",
+        "color1": "#1E525A",
+        "color2": "#535362",
+        "color3": "#B84863",
+        "color4": "#3B7B82",
+        "color5": "#E1678C",
+        "color6": "#1A9292",
+        "color7": "#a3c5c8",
+        "color8": "#72898c",
+        "color9": "#1E525A",
+        "color10": "#535362",
+        "color11": "#B84863",
+        "color12": "#3B7B82",
+        "color13": "#E1678C",
+        "color14": "#1A9292",
+        "color15": "#a3c5c8"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/Wallpapers/wallhaven-q6demr.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F1725",
+        "foreground": "#e0dad2",
+        "cursor": "#e0dad2"
+    },
+    "colors": {
+        "color0": "#0F1725",
+        "color1": "#8A7666",
+        "color2": "#9B8B73",
+        "color3": "#C3A27D",
+        "color4": "#738E81",
+        "color5": "#ACA194",
+        "color6": "#C7B4A0",
+        "color7": "#e0dad2",
+        "color8": "#9c9893",
+        "color9": "#8A7666",
+        "color10": "#9B8B73",
+        "color11": "#C3A27D",
+        "color12": "#738E81",
+        "color13": "#ACA194",
+        "color14": "#C7B4A0",
+        "color15": "#e0dad2"
+    }
+}

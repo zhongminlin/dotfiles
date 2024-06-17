@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/Wallpapers/vending.png",
+    "alpha": "100",
+    "special": {
+        "background": "#281c1c",
+        "foreground": "#b6ced8",
+        "cursor": "#b6ced8"
+    },
+    "colors": {
+        "color0": "#281c1c",
+        "color1": "#3E6881",
+        "color2": "#4C7488",
+        "color3": "#637D94",
+        "color4": "#5A828E",
+        "color5": "#6F8786",
+        "color6": "#678EA2",
+        "color7": "#b6ced8",
+        "color8": "#7f9097",
+        "color9": "#3E6881",
+        "color10": "#4C7488",
+        "color11": "#637D94",
+        "color12": "#5A828E",
+        "color13": "#6F8786",
+        "color14": "#678EA2",
+        "color15": "#b6ced8"
+    }
+}
