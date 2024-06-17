@@ -1,0 +1,11 @@
+# EDITOR
+export EDITOR=nvim
+
+# chinese input
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
+export SDL_IM_MODULE=fcitx
+export XMODIFIERS=@im=fcitx
+
+# ranger
+export RANGER_LOAD_DEFAULT_RC=false
