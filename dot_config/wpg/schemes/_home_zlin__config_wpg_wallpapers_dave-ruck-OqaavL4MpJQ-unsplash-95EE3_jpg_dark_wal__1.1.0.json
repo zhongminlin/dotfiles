@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/dave-ruck-OqaavL4MpJQ-unsplash-95EE3.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0c06",
+        "foreground": "#bcc5cc",
+        "cursor": "#bcc5cc"
+    },
+    "colors": {
+        "color0": "#0e0c06",
+        "color1": "#575630",
+        "color2": "#656658",
+        "color3": "#7F866F",
+        "color4": "#6E7B85",
+        "color5": "#778B98",
+        "color6": "#7DA2C1",
+        "color7": "#bcc5cc",
+        "color8": "#83898e",
+        "color9": "#575630",
+        "color10": "#656658",
+        "color11": "#7F866F",
+        "color12": "#6E7B85",
+        "color13": "#778B98",
+        "color14": "#7DA2C1",
+        "color15": "#bcc5cc"
+    }
+}

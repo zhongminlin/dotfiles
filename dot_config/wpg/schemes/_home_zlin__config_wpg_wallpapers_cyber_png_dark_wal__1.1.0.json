@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/cyber.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0C0D0D",
+        "foreground": "#d8dad5",
+        "cursor": "#d8dad5"
+    },
+    "colors": {
+        "color0": "#0C0D0D",
+        "color1": "#5E606A",
+        "color2": "#C6B458",
+        "color3": "#5F619C",
+        "color4": "#956C81",
+        "color5": "#4EB5BE",
+        "color6": "#9E9D9F",
+        "color7": "#d8dad5",
+        "color8": "#979895",
+        "color9": "#5E606A",
+        "color10": "#C6B458",
+        "color11": "#5F619C",
+        "color12": "#956C81",
+        "color13": "#4EB5BE",
+        "color14": "#9E9D9F",
+        "color15": "#d8dad5"
+    }
+}

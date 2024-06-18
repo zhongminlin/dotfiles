@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/forest-mountain-cloudy-valley.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1e1e1b",
+        "foreground": "#dee0dd",
+        "cursor": "#dee0dd"
+    },
+    "colors": {
+        "color0": "#1e1e1b",
+        "color1": "#82827D",
+        "color2": "#91938E",
+        "color3": "#9FA39E",
+        "color4": "#AEB2AD",
+        "color5": "#BDC1BC",
+        "color6": "#C1C4BE",
+        "color7": "#dee0dd",
+        "color8": "#9b9c9a",
+        "color9": "#82827D",
+        "color10": "#91938E",
+        "color11": "#9FA39E",
+        "color12": "#AEB2AD",
+        "color13": "#BDC1BC",
+        "color14": "#C1C4BE",
+        "color15": "#dee0dd"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/Genesis-27CA5.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C1219",
+        "foreground": "#a7c1d1",
+        "cursor": "#a7c1d1"
+    },
+    "colors": {
+        "color0": "#0C1219",
+        "color1": "#2C4A5A",
+        "color2": "#304F6D",
+        "color3": "#525767",
+        "color4": "#8C8077",
+        "color5": "#39648A",
+        "color6": "#546E93",
+        "color7": "#a7c1d1",
+        "color8": "#748792",
+        "color9": "#2C4A5A",
+        "color10": "#304F6D",
+        "color11": "#525767",
+        "color12": "#8C8077",
+        "color13": "#39648A",
+        "color14": "#546E93",
+        "color15": "#a7c1d1"
+    }
+}

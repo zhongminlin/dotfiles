@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/robomonsterkitty.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f020d",
+        "foreground": "#8fb2bf",
+        "cursor": "#8fb2bf"
+    },
+    "colors": {
+        "color0": "#0f020d",
+        "color1": "#691A44",
+        "color2": "#612A54",
+        "color3": "#5D4870",
+        "color4": "#9E282E",
+        "color5": "#912533",
+        "color6": "#AE4146",
+        "color7": "#8fb2bf",
+        "color8": "#647c85",
+        "color9": "#691A44",
+        "color10": "#612A54",
+        "color11": "#5D4870",
+        "color12": "#9E282E",
+        "color13": "#912533",
+        "color14": "#AE4146",
+        "color15": "#8fb2bf"
+    }
+}

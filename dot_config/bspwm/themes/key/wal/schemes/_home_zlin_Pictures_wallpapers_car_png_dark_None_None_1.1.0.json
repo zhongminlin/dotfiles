@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/car.png",
+    "alpha": "100",
+    "special": {
+        "background": "#020914",
+        "foreground": "#f6c7f2",
+        "cursor": "#f6c7f2"
+    },
+    "colors": {
+        "color0": "#020914",
+        "color1": "#8C6F7E",
+        "color2": "#152C96",
+        "color3": "#055A97",
+        "color4": "#5336C6",
+        "color5": "#CA2BCD",
+        "color6": "#FB61F8",
+        "color7": "#f6c7f2",
+        "color8": "#ac8ba9",
+        "color9": "#8C6F7E",
+        "color10": "#152C96",
+        "color11": "#055A97",
+        "color12": "#5336C6",
+        "color13": "#CA2BCD",
+        "color14": "#FB61F8",
+        "color15": "#f6c7f2"
+    }
+}

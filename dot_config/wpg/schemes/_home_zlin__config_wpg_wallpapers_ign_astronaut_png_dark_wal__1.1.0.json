@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/ign_astronaut.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101721",
+        "foreground": "#aebbc3",
+        "cursor": "#aebbc3"
+    },
+    "colors": {
+        "color0": "#101721",
+        "color1": "#5F5E67",
+        "color2": "#9B6468",
+        "color3": "#C7696F",
+        "color4": "#A89275",
+        "color5": "#60728D",
+        "color6": "#9A758B",
+        "color7": "#aebbc3",
+        "color8": "#798288",
+        "color9": "#5F5E67",
+        "color10": "#9B6468",
+        "color11": "#C7696F",
+        "color12": "#A89275",
+        "color13": "#60728D",
+        "color14": "#9A758B",
+        "color15": "#aebbc3"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/caucasus-mountains-clouds-4A583.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f151b",
+        "foreground": "#dddfdf",
+        "cursor": "#dddfdf"
+    },
+    "colors": {
+        "color0": "#0f151b",
+        "color1": "#8E9CA3",
+        "color2": "#99A6AE",
+        "color3": "#ACB3B5",
+        "color4": "#C3C3BC",
+        "color5": "#ADBBC4",
+        "color6": "#B9C4CB",
+        "color7": "#dddfdf",
+        "color8": "#9a9c9c",
+        "color9": "#8E9CA3",
+        "color10": "#99A6AE",
+        "color11": "#ACB3B5",
+        "color12": "#C3C3BC",
+        "color13": "#ADBBC4",
+        "color14": "#B9C4CB",
+        "color15": "#dddfdf"
+    }
+}

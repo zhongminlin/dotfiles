@@ -1,0 +1,12 @@
+[submodule "startpage"]
+	path = startpage
+	url = https://github.com/ErkHal/startpage
+[submodule "ChromiumPywal"]
+	path = ChromiumPywal
+	url = https://github.com/metafates/ChromiumPywal
+[submodule "BentoPywal"]
+	path = BentoPywal
+	url = https://github.com/metafates/BentoPywal
+[submodule "start"]
+	path = start
+	url = https://github.com/amogusussy/start

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/window-to-gotham-city-1920\u00d71080.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010101",
+        "foreground": "#a7c1ca",
+        "cursor": "#a7c1ca"
+    },
+    "colors": {
+        "color0": "#010101",
+        "color1": "#204E68",
+        "color2": "#4D626B",
+        "color3": "#81877F",
+        "color4": "#236591",
+        "color5": "#486E90",
+        "color6": "#449DBD",
+        "color7": "#a7c1ca",
+        "color8": "#74878d",
+        "color9": "#204E68",
+        "color10": "#4D626B",
+        "color11": "#81877F",
+        "color12": "#236591",
+        "color13": "#486E90",
+        "color14": "#449DBD",
+        "color15": "#a7c1ca"
+    }
+}

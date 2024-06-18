@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/image0-F72E3.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e1e44",
+        "foreground": "#e5d9f0",
+        "cursor": "#e5d9f0"
+    },
+    "colors": {
+        "color0": "#0e1e44",
+        "color1": "#7088CE",
+        "color2": "#AA8BB2",
+        "color3": "#A6A2E3",
+        "color4": "#CCA1DA",
+        "color5": "#D0B5F2",
+        "color6": "#EEB8F0",
+        "color7": "#e5d9f0",
+        "color8": "#a097a8",
+        "color9": "#7088CE",
+        "color10": "#AA8BB2",
+        "color11": "#A6A2E3",
+        "color12": "#CCA1DA",
+        "color13": "#D0B5F2",
+        "color14": "#EEB8F0",
+        "color15": "#e5d9f0"
+    }
+}

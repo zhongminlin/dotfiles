@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/moscow-station.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#030B10",
+        "foreground": "#dcdfe2",
+        "cursor": "#dcdfe2"
+    },
+    "colors": {
+        "color0": "#030B10",
+        "color1": "#9DA9B2",
+        "color2": "#F3CF9A",
+        "color3": "#9BB2C3",
+        "color4": "#AFBAC4",
+        "color5": "#BAC4CC",
+        "color6": "#B8D0E3",
+        "color7": "#dcdfe2",
+        "color8": "#9a9c9e",
+        "color9": "#9DA9B2",
+        "color10": "#F3CF9A",
+        "color11": "#9BB2C3",
+        "color12": "#AFBAC4",
+        "color13": "#BAC4CC",
+        "color14": "#B8D0E3",
+        "color15": "#dcdfe2"
+    }
+}

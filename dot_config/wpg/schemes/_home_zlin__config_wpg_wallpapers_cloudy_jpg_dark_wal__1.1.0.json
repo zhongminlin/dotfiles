@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/cloudy.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1f1f1f",
+        "foreground": "#dededf",
+        "cursor": "#dededf"
+    },
+    "colors": {
+        "color0": "#1f1f1f",
+        "color1": "#A48D78",
+        "color2": "#979EA2",
+        "color3": "#AEB4B9",
+        "color4": "#DDC1AC",
+        "color5": "#BABEC2",
+        "color6": "#BEC1C6",
+        "color7": "#dededf",
+        "color8": "#9b9b9c",
+        "color9": "#A48D78",
+        "color10": "#979EA2",
+        "color11": "#AEB4B9",
+        "color12": "#DDC1AC",
+        "color13": "#BABEC2",
+        "color14": "#BEC1C6",
+        "color15": "#dededf"
+    }
+}

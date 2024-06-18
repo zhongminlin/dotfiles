@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/wallhaven-dgdmj3.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#121212",
+        "foreground": "#b3bac1",
+        "cursor": "#b3bac1"
+    },
+    "colors": {
+        "color0": "#121212",
+        "color1": "#3B3D42",
+        "color2": "#3D4544",
+        "color3": "#474F4F",
+        "color4": "#586267",
+        "color5": "#586568",
+        "color6": "#6E7887",
+        "color7": "#b3bac1",
+        "color8": "#7d8287",
+        "color9": "#3B3D42",
+        "color10": "#3D4544",
+        "color11": "#474F4F",
+        "color12": "#586267",
+        "color13": "#586568",
+        "color14": "#6E7887",
+        "color15": "#b3bac1"
+    }
+}

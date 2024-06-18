@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/space-lift.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#110928",
+        "foreground": "#a0c2cd",
+        "cursor": "#a0c2cd"
+    },
+    "colors": {
+        "color0": "#110928",
+        "color1": "#CF2850",
+        "color2": "#F52B4B",
+        "color3": "#9C4855",
+        "color4": "#F34F4D",
+        "color5": "#EC9E65",
+        "color6": "#FCCE75",
+        "color7": "#a0c2cd",
+        "color8": "#70878f",
+        "color9": "#CF2850",
+        "color10": "#F52B4B",
+        "color11": "#9C4855",
+        "color12": "#F34F4D",
+        "color13": "#EC9E65",
+        "color14": "#FCCE75",
+        "color15": "#a0c2cd"
+    }
+}

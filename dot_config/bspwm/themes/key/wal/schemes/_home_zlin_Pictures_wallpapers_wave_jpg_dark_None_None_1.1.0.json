@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/wave.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E0E0F",
+        "foreground": "#d6dad3",
+        "cursor": "#d6dad3"
+    },
+    "colors": {
+        "color0": "#0E0E0F",
+        "color1": "#708676",
+        "color2": "#B29469",
+        "color3": "#477689",
+        "color4": "#6D9397",
+        "color5": "#6BA9C5",
+        "color6": "#9BA7A0",
+        "color7": "#d6dad3",
+        "color8": "#959893",
+        "color9": "#708676",
+        "color10": "#B29469",
+        "color11": "#477689",
+        "color12": "#6D9397",
+        "color13": "#6BA9C5",
+        "color14": "#9BA7A0",
+        "color15": "#d6dad3"
+    }
+}

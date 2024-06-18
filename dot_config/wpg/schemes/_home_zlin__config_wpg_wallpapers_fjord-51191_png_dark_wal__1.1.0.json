@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/fjord-51191.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0c1010",
+        "foreground": "#e8ccdf",
+        "cursor": "#e8ccdf"
+    },
+    "colors": {
+        "color0": "#0c1010",
+        "color1": "#60709A",
+        "color2": "#5970AA",
+        "color3": "#8A7CBD",
+        "color4": "#708AA2",
+        "color5": "#A2A4BA",
+        "color6": "#A790C7",
+        "color7": "#e8ccdf",
+        "color8": "#a28e9c",
+        "color9": "#60709A",
+        "color10": "#5970AA",
+        "color11": "#8A7CBD",
+        "color12": "#708AA2",
+        "color13": "#A2A4BA",
+        "color14": "#A790C7",
+        "color15": "#e8ccdf"
+    }
+}

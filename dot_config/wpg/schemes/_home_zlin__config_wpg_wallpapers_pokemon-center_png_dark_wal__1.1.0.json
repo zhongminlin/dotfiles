@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/pokemon-center.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0e0f",
+        "foreground": "#d2e0e6",
+        "cursor": "#d2e0e6"
+    },
+    "colors": {
+        "color0": "#0c0e0f",
+        "color1": "#527A89",
+        "color2": "#6A8F99",
+        "color3": "#7DAEC2",
+        "color4": "#91AAB1",
+        "color5": "#A3B8C3",
+        "color6": "#B5CBD4",
+        "color7": "#d2e0e6",
+        "color8": "#939ca1",
+        "color9": "#527A89",
+        "color10": "#6A8F99",
+        "color11": "#7DAEC2",
+        "color12": "#91AAB1",
+        "color13": "#A3B8C3",
+        "color14": "#B5CBD4",
+        "color15": "#d2e0e6"
+    }
+}

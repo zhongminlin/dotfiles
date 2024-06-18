@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/arseniy-chebynkin-tokyo-street-night.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#171824",
+        "foreground": "#c7c6cb",
+        "cursor": "#c7c6cb"
+    },
+    "colors": {
+        "color0": "#171824",
+        "color1": "#1C4691",
+        "color2": "#2B548D",
+        "color3": "#2D5E9F",
+        "color4": "#51709C",
+        "color5": "#648BB0",
+        "color6": "#569CD0",
+        "color7": "#c7c6cb",
+        "color8": "#8b8a8e",
+        "color9": "#1C4691",
+        "color10": "#2B548D",
+        "color11": "#2D5E9F",
+        "color12": "#51709C",
+        "color13": "#648BB0",
+        "color14": "#569CD0",
+        "color15": "#c7c6cb"
+    }
+}

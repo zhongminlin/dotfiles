@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/split-bullet-planet-4k-8b-1920x1080-6CDA3.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0D0604",
+        "foreground": "#dcbfb1",
+        "cursor": "#dcbfb1"
+    },
+    "colors": {
+        "color0": "#0D0604",
+        "color1": "#704933",
+        "color2": "#4F3347",
+        "color3": "#6C514C",
+        "color4": "#8F5C34",
+        "color5": "#AA4140",
+        "color6": "#936052",
+        "color7": "#dcbfb1",
+        "color8": "#9a857b",
+        "color9": "#704933",
+        "color10": "#4F3347",
+        "color11": "#6C514C",
+        "color12": "#8F5C34",
+        "color13": "#AA4140",
+        "color14": "#936052",
+        "color15": "#dcbfb1"
+    }
+}

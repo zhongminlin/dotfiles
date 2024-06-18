@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/wallhaven-g7pw73.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#161d24",
+        "foreground": "#cedde4",
+        "cursor": "#cedde4"
+    },
+    "colors": {
+        "color0": "#161d24",
+        "color1": "#3571C9",
+        "color2": "#6D8FA5",
+        "color3": "#509FCE",
+        "color4": "#A0A6AC",
+        "color5": "#E2C1A4",
+        "color6": "#9DB7C9",
+        "color7": "#cedde4",
+        "color8": "#909a9f",
+        "color9": "#3571C9",
+        "color10": "#6D8FA5",
+        "color11": "#509FCE",
+        "color12": "#A0A6AC",
+        "color13": "#E2C1A4",
+        "color14": "#9DB7C9",
+        "color15": "#cedde4"
+    }
+}

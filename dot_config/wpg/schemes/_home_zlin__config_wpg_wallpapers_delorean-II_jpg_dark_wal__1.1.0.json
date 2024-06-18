@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/delorean-II.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090708",
+        "foreground": "#cecdd1",
+        "cursor": "#cecdd1"
+    },
+    "colors": {
+        "color0": "#090708",
+        "color1": "#605B66",
+        "color2": "#676371",
+        "color3": "#953E42",
+        "color4": "#A24C50",
+        "color5": "#EA5155",
+        "color6": "#837D84",
+        "color7": "#cecdd1",
+        "color8": "#908f92",
+        "color9": "#605B66",
+        "color10": "#676371",
+        "color11": "#953E42",
+        "color12": "#A24C50",
+        "color13": "#EA5155",
+        "color14": "#837D84",
+        "color15": "#cecdd1"
+    }
+}

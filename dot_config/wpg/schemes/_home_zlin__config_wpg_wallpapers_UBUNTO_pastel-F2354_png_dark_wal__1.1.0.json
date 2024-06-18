@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/UBUNTO_pastel-F2354.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0A0A",
+        "foreground": "#e7e2cf",
+        "cursor": "#e7e2cf"
+    },
+    "colors": {
+        "color0": "#0A0A0A",
+        "color1": "#FF6F61",
+        "color2": "#959077",
+        "color3": "#D38A4E",
+        "color4": "#F49E5A",
+        "color5": "#F8A15B",
+        "color6": "#B5AE90",
+        "color7": "#e7e2cf",
+        "color8": "#a19e90",
+        "color9": "#FF6F61",
+        "color10": "#959077",
+        "color11": "#D38A4E",
+        "color12": "#F49E5A",
+        "color13": "#F8A15B",
+        "color14": "#B5AE90",
+        "color15": "#e7e2cf"
+    }
+}

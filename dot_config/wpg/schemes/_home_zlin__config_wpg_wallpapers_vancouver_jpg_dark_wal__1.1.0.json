@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/vancouver.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#101c24",
+        "foreground": "#dce0e0",
+        "cursor": "#dce0e0"
+    },
+    "colors": {
+        "color0": "#101c24",
+        "color1": "#93AABB",
+        "color2": "#BDC0BF",
+        "color3": "#98B5C5",
+        "color4": "#A8BBC4",
+        "color5": "#A2C3CE",
+        "color6": "#B4C5CA",
+        "color7": "#dce0e0",
+        "color8": "#9a9c9c",
+        "color9": "#93AABB",
+        "color10": "#BDC0BF",
+        "color11": "#98B5C5",
+        "color12": "#A8BBC4",
+        "color13": "#A2C3CE",
+        "color14": "#B4C5CA",
+        "color15": "#dce0e0"
+    }
+}

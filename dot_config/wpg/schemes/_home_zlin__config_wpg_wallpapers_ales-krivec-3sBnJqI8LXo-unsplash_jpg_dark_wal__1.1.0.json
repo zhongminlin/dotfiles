@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/ales-krivec-3sBnJqI8LXo-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#222324",
+        "foreground": "#e6e6e7",
+        "cursor": "#e6e6e7"
+    },
+    "colors": {
+        "color0": "#222324",
+        "color1": "#8E8F91",
+        "color2": "#9E9FA1",
+        "color3": "#AFB0B2",
+        "color4": "#BEBFC1",
+        "color5": "#BFC0C2",
+        "color6": "#CFD0D2",
+        "color7": "#e6e6e7",
+        "color8": "#a1a1a1",
+        "color9": "#8E8F91",
+        "color10": "#9E9FA1",
+        "color11": "#AFB0B2",
+        "color12": "#BEBFC1",
+        "color13": "#BFC0C2",
+        "color14": "#CFD0D2",
+        "color15": "#e6e6e7"
+    }
+}

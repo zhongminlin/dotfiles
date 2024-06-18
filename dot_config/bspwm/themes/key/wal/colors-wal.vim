@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/zlin/.config/wpg/wallpapers/key.png"
+let background = "#0D0D12"
+let foreground = "#9a9abb"
+let cursor     = "#9a9abb"
+
+" Colors
+let color0  = "#0D0D12"
+let color1  = "#443C62"
+let color2  = "#58535F"
+let color3  = "#534A70"
+let color4  = "#D12F32"
+let color5  = "#FF3636"
+let color6  = "#C35039"
+let color7  = "#9a9abb"
+let color8  = "#6b6b82"
+let color9  = "#443C62"
+let color10 = "#58535F"
+let color11 = "#534A70"
+let color12 = "#D12F32"
+let color13 = "#FF3636"
+let color14 = "#C35039"
+let color15 = "#9a9abb"

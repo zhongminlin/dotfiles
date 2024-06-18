@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/es5_day.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#152423",
+        "foreground": "#ccdbdd",
+        "cursor": "#ccdbdd"
+    },
+    "colors": {
+        "color0": "#152423",
+        "color1": "#77C649",
+        "color2": "#78C867",
+        "color3": "#AEAC64",
+        "color4": "#98D660",
+        "color5": "#3B73A6",
+        "color6": "#5D9ABE",
+        "color7": "#ccdbdd",
+        "color8": "#8e999a",
+        "color9": "#77C649",
+        "color10": "#78C867",
+        "color11": "#AEAC64",
+        "color12": "#98D660",
+        "color13": "#3B73A6",
+        "color14": "#5D9ABE",
+        "color15": "#ccdbdd"
+    }
+}

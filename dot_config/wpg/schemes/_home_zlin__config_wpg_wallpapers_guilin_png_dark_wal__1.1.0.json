@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/guilin.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0E291F",
+        "foreground": "#cbdce6",
+        "cursor": "#cbdce6"
+    },
+    "colors": {
+        "color0": "#0E291F",
+        "color1": "#3888B8",
+        "color2": "#6496A1",
+        "color3": "#6EA6CD",
+        "color4": "#95AC9E",
+        "color5": "#B6C8A0",
+        "color6": "#94B7D2",
+        "color7": "#cbdce6",
+        "color8": "#8e9aa1",
+        "color9": "#3888B8",
+        "color10": "#6496A1",
+        "color11": "#6EA6CD",
+        "color12": "#95AC9E",
+        "color13": "#B6C8A0",
+        "color14": "#94B7D2",
+        "color15": "#cbdce6"
+    }
+}

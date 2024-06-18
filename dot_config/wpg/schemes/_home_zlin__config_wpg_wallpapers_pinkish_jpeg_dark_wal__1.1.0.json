@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/pinkish.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#041D23",
+        "foreground": "#dcdee4",
+        "cursor": "#dcdee4"
+    },
+    "colors": {
+        "color0": "#041D23",
+        "color1": "#9FA2A3",
+        "color2": "#D59DAA",
+        "color3": "#B2BCC6",
+        "color4": "#DBB7C7",
+        "color5": "#BAC8D4",
+        "color6": "#BED2E1",
+        "color7": "#dcdee4",
+        "color8": "#9a9b9f",
+        "color9": "#9FA2A3",
+        "color10": "#D59DAA",
+        "color11": "#B2BCC6",
+        "color12": "#DBB7C7",
+        "color13": "#BAC8D4",
+        "color14": "#BED2E1",
+        "color15": "#dcdee4"
+    }
+}

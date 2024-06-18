@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/life-support.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0f0c",
+        "foreground": "#dad1c6",
+        "cursor": "#dad1c6"
+    },
+    "colors": {
+        "color0": "#0d0f0c",
+        "color1": "#8E6F3A",
+        "color2": "#897763",
+        "color3": "#998876",
+        "color4": "#C0A57E",
+        "color5": "#857E81",
+        "color6": "#B0A091",
+        "color7": "#dad1c6",
+        "color8": "#98928a",
+        "color9": "#8E6F3A",
+        "color10": "#897763",
+        "color11": "#998876",
+        "color12": "#C0A57E",
+        "color13": "#857E81",
+        "color14": "#B0A091",
+        "color15": "#dad1c6"
+    }
+}

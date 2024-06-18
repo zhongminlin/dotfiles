@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/PEMyUIW-96D0F.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#040916",
+        "foreground": "#a9b6d7",
+        "cursor": "#a9b6d7"
+    },
+    "colors": {
+        "color0": "#040916",
+        "color1": "#2C425C",
+        "color2": "#314674",
+        "color3": "#42587B",
+        "color4": "#38518A",
+        "color5": "#3D629D",
+        "color6": "#4E68A0",
+        "color7": "#a9b6d7",
+        "color8": "#767f96",
+        "color9": "#2C425C",
+        "color10": "#314674",
+        "color11": "#42587B",
+        "color12": "#38518A",
+        "color13": "#3D629D",
+        "color14": "#4E68A0",
+        "color15": "#a9b6d7"
+    }
+}

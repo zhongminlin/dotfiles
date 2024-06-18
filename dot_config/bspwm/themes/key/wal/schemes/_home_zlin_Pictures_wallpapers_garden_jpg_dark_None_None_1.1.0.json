@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/garden.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C1415",
+        "foreground": "#bfcaca",
+        "cursor": "#bfcaca"
+    },
+    "colors": {
+        "color0": "#0C1415",
+        "color1": "#3D5C57",
+        "color2": "#50655B",
+        "color3": "#55853D",
+        "color4": "#698E64",
+        "color5": "#74907D",
+        "color6": "#738F91",
+        "color7": "#bfcaca",
+        "color8": "#858d8d",
+        "color9": "#3D5C57",
+        "color10": "#50655B",
+        "color11": "#55853D",
+        "color12": "#698E64",
+        "color13": "#74907D",
+        "color14": "#738F91",
+        "color15": "#bfcaca"
+    }
+}

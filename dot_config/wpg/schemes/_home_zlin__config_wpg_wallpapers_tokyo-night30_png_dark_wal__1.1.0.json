@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/tokyo-night30.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0d15",
+        "foreground": "#99ccc8",
+        "cursor": "#99ccc8"
+    },
+    "colors": {
+        "color0": "#0e0d15",
+        "color1": "#6F8A6F",
+        "color2": "#AC9362",
+        "color3": "#DFAD69",
+        "color4": "#5A6F8A",
+        "color5": "#C7728F",
+        "color6": "#509C9E",
+        "color7": "#99ccc8",
+        "color8": "#6b8e8c",
+        "color9": "#6F8A6F",
+        "color10": "#AC9362",
+        "color11": "#DFAD69",
+        "color12": "#5A6F8A",
+        "color13": "#C7728F",
+        "color14": "#509C9E",
+        "color15": "#99ccc8"
+    }
+}

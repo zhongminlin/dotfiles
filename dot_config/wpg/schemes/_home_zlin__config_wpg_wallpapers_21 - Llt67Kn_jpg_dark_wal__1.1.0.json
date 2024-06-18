@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/21 - Llt67Kn.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#18191c",
+        "foreground": "#d2dada",
+        "cursor": "#d2dada"
+    },
+    "colors": {
+        "color0": "#18191c",
+        "color1": "#3A7781",
+        "color2": "#597A85",
+        "color3": "#3F808A",
+        "color4": "#608990",
+        "color5": "#6D8C96",
+        "color6": "#9BA9AE",
+        "color7": "#d2dada",
+        "color8": "#939898",
+        "color9": "#3A7781",
+        "color10": "#597A85",
+        "color11": "#3F808A",
+        "color12": "#608990",
+        "color13": "#6D8C96",
+        "color14": "#9BA9AE",
+        "color15": "#d2dada"
+    }
+}

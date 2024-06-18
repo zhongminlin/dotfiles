@@ -1,0 +1,42 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: pause
+current: 24
+time: 181.877000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 2
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:A_Man_Without_Love.mp3
+1:Sankarin_Tango.mp3
+2:Kokomo.mp3
+3:Running_Up_That_Hill__A_Deal_With_God__-_2018_Remaster.mp3
+4:紅蓮華.mp3
+5:Give_Up.mp3
+6:Just_a_Habit.mp3
+7:Friends_Make_Garbage__Good_Friends_Take_It_Out_.mp3
+8:Rolling_Over.mp3
+9:The_Man_Who_Sold_The_World.mp3
+10:Something_In_The_Way.mp3
+11:Don_t_Be_so_Serious.mp3
+12:Bones.mp3
+13:Dirk Maassen - poco a poco.m4a
+14:Here_s_to_you__feat__Joan_Baez_.mp3
+15:Don_t_Worry_Baby___Remastered_2001.mp3
+16:Má vlast (My Country)  No. 2, Vltava (Moldau).m4a
+17:Dirk Maassen - Juli,Juli (July,July).m4a
+18:Dirk Maassen - To The Sky (Moderate)  The Sitting Room Piano.m4a
+19:Slipping_Through_My_Fingers.mp3
+20:Nik Ammar _ Lucy Underhill _ Michael Orchard - Thorn in My Side (Pop Noir).mp3
+21:The_Dark_End_of_the_Street.mp3
+22:Grover Washington Jr. feat. Bill Withers - Just The Two of Us [HQ].m4a
+23:Please_Don_t_Stop__Chapter_2_.mp3
+24:Stay With Me - Miki Matsubara (sub. español) 真夜中のドア.m4a
+25:Mariya Takeuchi 竹内 まりや Plastic Love.mp3
+26:Tomoko Aran - Midnight Pretenders (subtitled).m4a
+playlist_end

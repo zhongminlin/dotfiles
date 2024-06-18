@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/pink-mecha.png",
+    "alpha": "100",
+    "special": {
+        "background": "#21252e",
+        "foreground": "#d1cadb",
+        "cursor": "#d1cadb"
+    },
+    "colors": {
+        "color0": "#21252e",
+        "color1": "#93729A",
+        "color2": "#A06D99",
+        "color3": "#887CA2",
+        "color4": "#958BAD",
+        "color5": "#A294B6",
+        "color6": "#AC9EC1",
+        "color7": "#d1cadb",
+        "color8": "#928d99",
+        "color9": "#93729A",
+        "color10": "#A06D99",
+        "color11": "#887CA2",
+        "color12": "#958BAD",
+        "color13": "#A294B6",
+        "color14": "#AC9EC1",
+        "color15": "#d1cadb"
+    }
+}

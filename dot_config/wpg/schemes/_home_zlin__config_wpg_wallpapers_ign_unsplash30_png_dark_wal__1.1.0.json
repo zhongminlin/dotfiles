@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/ign_unsplash30.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1a1e25",
+        "foreground": "#c1d9e0",
+        "cursor": "#c1d9e0"
+    },
+    "colors": {
+        "color0": "#1a1e25",
+        "color1": "#B46469",
+        "color2": "#758978",
+        "color3": "#CB9275",
+        "color4": "#577191",
+        "color5": "#6E97B3",
+        "color6": "#AFBEAB",
+        "color7": "#c1d9e0",
+        "color8": "#87979c",
+        "color9": "#B46469",
+        "color10": "#758978",
+        "color11": "#CB9275",
+        "color12": "#577191",
+        "color13": "#6E97B3",
+        "color14": "#AFBEAB",
+        "color15": "#c1d9e0"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/mt3.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1a181c",
+        "foreground": "#c7e2ea",
+        "cursor": "#c7e2ea"
+    },
+    "colors": {
+        "color0": "#1a181c",
+        "color1": "#3999BF",
+        "color2": "#329DEB",
+        "color3": "#4EA1ED",
+        "color4": "#61CCE7",
+        "color5": "#AFA2A1",
+        "color6": "#CDAC97",
+        "color7": "#c7e2ea",
+        "color8": "#8b9ea3",
+        "color9": "#3999BF",
+        "color10": "#329DEB",
+        "color11": "#4EA1ED",
+        "color12": "#61CCE7",
+        "color13": "#AFA2A1",
+        "color14": "#CDAC97",
+        "color15": "#c7e2ea"
+    }
+}

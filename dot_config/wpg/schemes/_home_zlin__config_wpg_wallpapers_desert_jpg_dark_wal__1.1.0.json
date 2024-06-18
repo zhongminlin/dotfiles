@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/desert.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d0905",
+        "foreground": "#d4cec9",
+        "cursor": "#d4cec9"
+    },
+    "colors": {
+        "color0": "#0d0905",
+        "color1": "#746047",
+        "color2": "#946A4B",
+        "color3": "#B38F6D",
+        "color4": "#C3A17B",
+        "color5": "#697990",
+        "color6": "#758294",
+        "color7": "#d4cec9",
+        "color8": "#94908c",
+        "color9": "#746047",
+        "color10": "#946A4B",
+        "color11": "#B38F6D",
+        "color12": "#C3A17B",
+        "color13": "#697990",
+        "color14": "#758294",
+        "color15": "#d4cec9"
+    }
+}

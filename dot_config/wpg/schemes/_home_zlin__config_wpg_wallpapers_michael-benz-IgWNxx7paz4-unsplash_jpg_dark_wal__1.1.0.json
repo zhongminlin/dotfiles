@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/michael-benz-IgWNxx7paz4-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#000B10",
+        "foreground": "#bec7cf",
+        "cursor": "#bec7cf"
+    },
+    "colors": {
+        "color0": "#000B10",
+        "color1": "#496777",
+        "color2": "#396F83",
+        "color3": "#547689",
+        "color4": "#897793",
+        "color5": "#3C848F",
+        "color6": "#6D8B9B",
+        "color7": "#bec7cf",
+        "color8": "#858b90",
+        "color9": "#496777",
+        "color10": "#396F83",
+        "color11": "#547689",
+        "color12": "#897793",
+        "color13": "#3C848F",
+        "color14": "#6D8B9B",
+        "color15": "#bec7cf"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/iNaVwcmX-wallha.com.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101213",
+        "foreground": "#b4c8d7",
+        "cursor": "#b4c8d7"
+    },
+    "colors": {
+        "color0": "#101213",
+        "color1": "#3A5E81",
+        "color2": "#3D6384",
+        "color3": "#4E7292",
+        "color4": "#5E7D9B",
+        "color5": "#6083A1",
+        "color6": "#6B8DAA",
+        "color7": "#b4c8d7",
+        "color8": "#7d8c96",
+        "color9": "#3A5E81",
+        "color10": "#3D6384",
+        "color11": "#4E7292",
+        "color12": "#5E7D9B",
+        "color13": "#6083A1",
+        "color14": "#6B8DAA",
+        "color15": "#b4c8d7"
+    }
+}

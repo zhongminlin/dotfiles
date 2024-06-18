@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/sushi_truck.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#151313",
+        "foreground": "#a5b3c4",
+        "cursor": "#a5b3c4"
+    },
+    "colors": {
+        "color0": "#151313",
+        "color1": "#A45F34",
+        "color2": "#CC683F",
+        "color3": "#927154",
+        "color4": "#5D8670",
+        "color5": "#A38E6C",
+        "color6": "#DEAF62",
+        "color7": "#a5b3c4",
+        "color8": "#737d89",
+        "color9": "#A45F34",
+        "color10": "#CC683F",
+        "color11": "#927154",
+        "color12": "#5D8670",
+        "color13": "#A38E6C",
+        "color14": "#DEAF62",
+        "color15": "#a5b3c4"
+    }
+}

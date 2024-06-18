@@ -1,0 +1,20 @@
+# Zathura configuration file
+# See man `man zathurarc'
+
+# Open document in fit-width mode by default
+set adjust-open "best-fit"
+
+# Theming 
+
+# recolor
+set recolor "true"
+set recolor-keephue "true"
+
+# semi transparent background
+# set default-bg rgba(25,29,39,0.95)
+
+# fully transparent light background
+# set recolor-lightcolor rgba(25,29,39,0)
+
+# set statusbar-fg "#B0B0B0"
+# set statusbar-bg rgba(25,29,39,0.95)

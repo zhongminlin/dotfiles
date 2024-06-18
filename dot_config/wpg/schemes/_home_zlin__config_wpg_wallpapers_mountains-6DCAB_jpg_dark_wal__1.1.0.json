@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/mountains-6DCAB.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c1216",
+        "foreground": "#c9dde6",
+        "cursor": "#c9dde6"
+    },
+    "colors": {
+        "color0": "#0c1216",
+        "color1": "#2C6896",
+        "color2": "#4A7792",
+        "color3": "#3A8DBD",
+        "color4": "#5C8DA3",
+        "color5": "#61A3D4",
+        "color6": "#88B1C8",
+        "color7": "#c9dde6",
+        "color8": "#8c9aa1",
+        "color9": "#2C6896",
+        "color10": "#4A7792",
+        "color11": "#3A8DBD",
+        "color12": "#5C8DA3",
+        "color13": "#61A3D4",
+        "color14": "#88B1C8",
+        "color15": "#c9dde6"
+    }
+}

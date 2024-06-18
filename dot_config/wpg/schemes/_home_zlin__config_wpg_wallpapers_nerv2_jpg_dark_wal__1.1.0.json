@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/nerv2.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0D0E15",
+        "foreground": "#9ea9c1",
+        "cursor": "#9ea9c1"
+    },
+    "colors": {
+        "color0": "#0D0E15",
+        "color1": "#2A3055",
+        "color2": "#2F555D",
+        "color3": "#4B6170",
+        "color4": "#A66372",
+        "color5": "#2CAA47",
+        "color6": "#229566",
+        "color7": "#9ea9c1",
+        "color8": "#6e7687",
+        "color9": "#2A3055",
+        "color10": "#2F555D",
+        "color11": "#4B6170",
+        "color12": "#A66372",
+        "color13": "#2CAA47",
+        "color14": "#229566",
+        "color15": "#9ea9c1"
+    }
+}

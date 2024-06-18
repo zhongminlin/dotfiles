@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/.config/wpg/wallpapers/Sushi.png",
+    "alpha": "100",
+    "special": {
+        "background": "#332621",
+        "foreground": "#e7e5e1",
+        "cursor": "#e7e5e1"
+    },
+    "colors": {
+        "color0": "#332621",
+        "color1": "#A4A09C",
+        "color2": "#FEB786",
+        "color3": "#C7B8A1",
+        "color4": "#FFC996",
+        "color5": "#E6D2B2",
+        "color6": "#BDC0C4",
+        "color7": "#e7e5e1",
+        "color8": "#a1a09d",
+        "color9": "#A4A09C",
+        "color10": "#FEB786",
+        "color11": "#C7B8A1",
+        "color12": "#FFC996",
+        "color13": "#E6D2B2",
+        "color14": "#BDC0C4",
+        "color15": "#e7e5e1"
+    }
+}
