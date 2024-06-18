@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/mm7prhmrq3681.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E1218",
+        "foreground": "#bbbdca",
+        "cursor": "#bbbdca"
+    },
+    "colors": {
+        "color0": "#0E1218",
+        "color1": "#4E5065",
+        "color2": "#5B5260",
+        "color3": "#B93B30",
+        "color4": "#D26636",
+        "color5": "#E8AE47",
+        "color6": "#658499",
+        "color7": "#bbbdca",
+        "color8": "#82848d",
+        "color9": "#4E5065",
+        "color10": "#5B5260",
+        "color11": "#B93B30",
+        "color12": "#D26636",
+        "color13": "#E8AE47",
+        "color14": "#658499",
+        "color15": "#bbbdca"
+    }
+}

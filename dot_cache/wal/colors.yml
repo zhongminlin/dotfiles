@@ -1,0 +1,24 @@
+wallpaper: "/home/zlin/.config/wpg/wallpapers/undefined - Imgur(8).jpg"
+
+special:
+    background: "#0F171A"
+    foreground: "#eac5be"
+    cursor: "#eac5be"
+
+colors:
+    color0: "#0F171A"
+    color1: "#5F515F"
+    color2: "#A3665B"
+    color3: "#F19D74"
+    color4: "#D2A26C"
+    color5: "#817C87"
+    color6: "#BFA7A8"
+    color7: "#eac5be"
+    color8: "#a38985"
+    color9: "#5F515F"
+    color10: "#A3665B"
+    color11: "#F19D74"
+    color12: "#D2A26C"
+    color13: "#817C87"
+    color14: "#BFA7A8"
+    color15: "#eac5be"

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/japanese-happy-5BF74.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1b151d",
+        "foreground": "#c8dff0",
+        "cursor": "#c8dff0"
+    },
+    "colors": {
+        "color0": "#1b151d",
+        "color1": "#63906E",
+        "color2": "#C09667",
+        "color3": "#5A6696",
+        "color4": "#987092",
+        "color5": "#6FA7D4",
+        "color6": "#B2ABB2",
+        "color7": "#c8dff0",
+        "color8": "#8c9ca8",
+        "color9": "#63906E",
+        "color10": "#C09667",
+        "color11": "#5A6696",
+        "color12": "#987092",
+        "color13": "#6FA7D4",
+        "color14": "#B2ABB2",
+        "color15": "#c8dff0"
+    }
+}

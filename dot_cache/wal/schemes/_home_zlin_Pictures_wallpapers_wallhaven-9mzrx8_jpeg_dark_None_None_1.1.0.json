@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/wallhaven-9mzrx8.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C1B30",
+        "foreground": "#dee1e1",
+        "cursor": "#dee1e1"
+    },
+    "colors": {
+        "color0": "#0C1B30",
+        "color1": "#1CA3AE",
+        "color2": "#738B9F",
+        "color3": "#9AA7B0",
+        "color4": "#C0C2BA",
+        "color5": "#A9B9C4",
+        "color6": "#B9C5CB",
+        "color7": "#dee1e1",
+        "color8": "#9b9d9d",
+        "color9": "#1CA3AE",
+        "color10": "#738B9F",
+        "color11": "#9AA7B0",
+        "color12": "#C0C2BA",
+        "color13": "#A9B9C4",
+        "color14": "#B9C5CB",
+        "color15": "#dee1e1"
+    }
+}

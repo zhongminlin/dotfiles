@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/keyswitch_grey-4E824.png",
+    "alpha": "100",
+    "special": {
+        "background": "#15191e",
+        "foreground": "#e8e1df",
+        "cursor": "#e8e1df"
+    },
+    "colors": {
+        "color0": "#15191e",
+        "color1": "#934D6A",
+        "color2": "#DF8E6B",
+        "color3": "#6E7989",
+        "color4": "#E03E83",
+        "color5": "#EF4E83",
+        "color6": "#C7ACA6",
+        "color7": "#e8e1df",
+        "color8": "#a29d9c",
+        "color9": "#934D6A",
+        "color10": "#DF8E6B",
+        "color11": "#6E7989",
+        "color12": "#E03E83",
+        "color13": "#EF4E83",
+        "color14": "#C7ACA6",
+        "color15": "#e8e1df"
+    }
+}

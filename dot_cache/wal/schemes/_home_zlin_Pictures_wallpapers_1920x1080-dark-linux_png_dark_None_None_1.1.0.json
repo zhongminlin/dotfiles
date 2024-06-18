@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/1920x1080-dark-linux.png",
+    "alpha": "100",
+    "special": {
+        "background": "#181818",
+        "foreground": "#dad2c2",
+        "cursor": "#dad2c2"
+    },
+    "colors": {
+        "color0": "#181818",
+        "color1": "#D79A23",
+        "color2": "#958D75",
+        "color3": "#DBA56B",
+        "color4": "#458588",
+        "color5": "#6C988E",
+        "color6": "#B4A98B",
+        "color7": "#dad2c2",
+        "color8": "#989387",
+        "color9": "#D79A23",
+        "color10": "#958D75",
+        "color11": "#DBA56B",
+        "color12": "#458588",
+        "color13": "#6C988E",
+        "color14": "#B4A98B",
+        "color15": "#dad2c2"
+    }
+}

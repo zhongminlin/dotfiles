@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/iolcyn09ont81.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#100f16",
+        "foreground": "#c4c1eb",
+        "cursor": "#c4c1eb"
+    },
+    "colors": {
+        "color0": "#100f16",
+        "color1": "#4A3355",
+        "color2": "#633561",
+        "color3": "#9E3969",
+        "color4": "#5E58A9",
+        "color5": "#AA4E9C",
+        "color6": "#EE79D9",
+        "color7": "#c4c1eb",
+        "color8": "#8987a4",
+        "color9": "#4A3355",
+        "color10": "#633561",
+        "color11": "#9E3969",
+        "color12": "#5E58A9",
+        "color13": "#AA4E9C",
+        "color14": "#EE79D9",
+        "color15": "#c4c1eb"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/wallhaven-j555qy.png",
+    "alpha": "100",
+    "special": {
+        "background": "#22252c",
+        "foreground": "#e3e6eb",
+        "cursor": "#e3e6eb"
+    },
+    "colors": {
+        "color0": "#22252c",
+        "color1": "#888D98",
+        "color2": "#979DA7",
+        "color3": "#A7ADB8",
+        "color4": "#B5BAC5",
+        "color5": "#BDC2CD",
+        "color6": "#C6CCD7",
+        "color7": "#e3e6eb",
+        "color8": "#9ea1a4",
+        "color9": "#888D98",
+        "color10": "#979DA7",
+        "color11": "#A7ADB8",
+        "color12": "#B5BAC5",
+        "color13": "#BDC2CD",
+        "color14": "#C6CCD7",
+        "color15": "#e3e6eb"
+    }
+}

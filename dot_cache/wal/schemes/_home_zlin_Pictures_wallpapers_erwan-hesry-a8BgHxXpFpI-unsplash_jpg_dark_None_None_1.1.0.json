@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/erwan-hesry-a8BgHxXpFpI-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b1619",
+        "foreground": "#e2cfc1",
+        "cursor": "#e2cfc1"
+    },
+    "colors": {
+        "color0": "#0b1619",
+        "color1": "#966F57",
+        "color2": "#A78A6F",
+        "color3": "#ED9948",
+        "color4": "#DB9B66",
+        "color5": "#6B8291",
+        "color6": "#A19E98",
+        "color7": "#e2cfc1",
+        "color8": "#9e9087",
+        "color9": "#966F57",
+        "color10": "#A78A6F",
+        "color11": "#ED9948",
+        "color12": "#DB9B66",
+        "color13": "#6B8291",
+        "color14": "#A19E98",
+        "color15": "#e2cfc1"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/chad-0F1B5.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0d10",
+        "foreground": "#acd9f6",
+        "cursor": "#acd9f6"
+    },
+    "colors": {
+        "color0": "#0f0d10",
+        "color1": "#467197",
+        "color2": "#65A09A",
+        "color3": "#7CC29E",
+        "color4": "#7EC7A2",
+        "color5": "#599CD2",
+        "color6": "#62B0F0",
+        "color7": "#acd9f6",
+        "color8": "#7897ac",
+        "color9": "#467197",
+        "color10": "#65A09A",
+        "color11": "#7CC29E",
+        "color12": "#7EC7A2",
+        "color13": "#599CD2",
+        "color14": "#62B0F0",
+        "color15": "#acd9f6"
+    }
+}

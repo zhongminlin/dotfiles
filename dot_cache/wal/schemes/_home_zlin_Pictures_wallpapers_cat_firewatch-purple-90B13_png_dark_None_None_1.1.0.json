@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/cat_firewatch-purple-90B13.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0d16",
+        "foreground": "#f0becd",
+        "cursor": "#f0becd"
+    },
+    "colors": {
+        "color0": "#0f0d16",
+        "color1": "#747183",
+        "color2": "#9B778E",
+        "color3": "#7E8296",
+        "color4": "#988BA2",
+        "color5": "#9D8DA2",
+        "color6": "#DA96AB",
+        "color7": "#f0becd",
+        "color8": "#a8858f",
+        "color9": "#747183",
+        "color10": "#9B778E",
+        "color11": "#7E8296",
+        "color12": "#988BA2",
+        "color13": "#9D8DA2",
+        "color14": "#DA96AB",
+        "color15": "#f0becd"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/cron.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1b1e25",
+        "foreground": "#bbd0d0",
+        "cursor": "#bbd0d0"
+    },
+    "colors": {
+        "color0": "#1b1e25",
+        "color1": "#658185",
+        "color2": "#688589",
+        "color3": "#6E8E91",
+        "color4": "#6F8E91",
+        "color5": "#7B9FA0",
+        "color6": "#7DA2A4",
+        "color7": "#bbd0d0",
+        "color8": "#829191",
+        "color9": "#658185",
+        "color10": "#688589",
+        "color11": "#6E8E91",
+        "color12": "#6F8E91",
+        "color13": "#7B9FA0",
+        "color14": "#7DA2A4",
+        "color15": "#bbd0d0"
+    }
+}

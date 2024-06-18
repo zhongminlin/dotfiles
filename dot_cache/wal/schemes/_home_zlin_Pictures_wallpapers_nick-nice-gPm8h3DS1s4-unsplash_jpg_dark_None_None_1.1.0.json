@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/nick-nice-gPm8h3DS1s4-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0f10",
+        "foreground": "#cccccd",
+        "cursor": "#cccccd"
+    },
+    "colors": {
+        "color0": "#0e0f10",
+        "color1": "#5F6062",
+        "color2": "#6C6D6F",
+        "color3": "#7D7E80",
+        "color4": "#7F8082",
+        "color5": "#8A8B8D",
+        "color6": "#9E9FA1",
+        "color7": "#cccccd",
+        "color8": "#8e8e8f",
+        "color9": "#5F6062",
+        "color10": "#6C6D6F",
+        "color11": "#7D7E80",
+        "color12": "#7F8082",
+        "color13": "#8A8B8D",
+        "color14": "#9E9FA1",
+        "color15": "#cccccd"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/florian-olivo-s-nQETq05bE-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0c0f",
+        "foreground": "#d2d7dc",
+        "cursor": "#d2d7dc"
+    },
+    "colors": {
+        "color0": "#0d0c0f",
+        "color1": "#4E524B",
+        "color2": "#6B6B62",
+        "color3": "#887663",
+        "color4": "#8F8677",
+        "color5": "#798383",
+        "color6": "#9A9895",
+        "color7": "#d2d7dc",
+        "color8": "#93969a",
+        "color9": "#4E524B",
+        "color10": "#6B6B62",
+        "color11": "#887663",
+        "color12": "#8F8677",
+        "color13": "#798383",
+        "color14": "#9A9895",
+        "color15": "#d2d7dc"
+    }
+}

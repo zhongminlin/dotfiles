@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/samurai-CC42D.png",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#cbbbb1",
+        "cursor": "#cbbbb1"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#393F46",
+        "color2": "#635E5B",
+        "color3": "#9A5D50",
+        "color4": "#DA4C4B",
+        "color5": "#E85150",
+        "color6": "#DF6F69",
+        "color7": "#cbbbb1",
+        "color8": "#8e827b",
+        "color9": "#393F46",
+        "color10": "#635E5B",
+        "color11": "#9A5D50",
+        "color12": "#DA4C4B",
+        "color13": "#E85150",
+        "color14": "#DF6F69",
+        "color15": "#cbbbb1"
+    }
+}

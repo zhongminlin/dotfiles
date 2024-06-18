@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/kevin-wolf-BJyjgEdNTPs-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E191B",
+        "foreground": "#e2e0e0",
+        "cursor": "#e2e0e0"
+    },
+    "colors": {
+        "color0": "#0E191B",
+        "color1": "#798488",
+        "color2": "#909294",
+        "color3": "#A79B9B",
+        "color4": "#B2ACAD",
+        "color5": "#C9B6B1",
+        "color6": "#D1C1BD",
+        "color7": "#e2e0e0",
+        "color8": "#9e9c9c",
+        "color9": "#798488",
+        "color10": "#909294",
+        "color11": "#A79B9B",
+        "color12": "#B2ACAD",
+        "color13": "#C9B6B1",
+        "color14": "#D1C1BD",
+        "color15": "#e2e0e0"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/the-gate-to-serenity-danisogen.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0C1C28",
+        "foreground": "#ddadbb",
+        "cursor": "#ddadbb"
+    },
+    "colors": {
+        "color0": "#0C1C28",
+        "color1": "#C75D70",
+        "color2": "#216186",
+        "color3": "#2B6A8F",
+        "color4": "#327CA4",
+        "color5": "#586F98",
+        "color6": "#9A7292",
+        "color7": "#ddadbb",
+        "color8": "#9a7982",
+        "color9": "#C75D70",
+        "color10": "#216186",
+        "color11": "#2B6A8F",
+        "color12": "#327CA4",
+        "color13": "#586F98",
+        "color14": "#9A7292",
+        "color15": "#ddadbb"
+    }
+}

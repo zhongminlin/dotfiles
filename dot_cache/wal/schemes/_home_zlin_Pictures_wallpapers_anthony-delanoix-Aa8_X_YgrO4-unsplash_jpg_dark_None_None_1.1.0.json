@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/anthony-delanoix-Aa8_X_YgrO4-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#181e24",
+        "foreground": "#e8ddcb",
+        "cursor": "#e8ddcb"
+    },
+    "colors": {
+        "color0": "#181e24",
+        "color1": "#708E9A",
+        "color2": "#7699A4",
+        "color3": "#7CA2AB",
+        "color4": "#B29C87",
+        "color5": "#89ACB1",
+        "color6": "#CFB18F",
+        "color7": "#e8ddcb",
+        "color8": "#a29a8e",
+        "color9": "#708E9A",
+        "color10": "#7699A4",
+        "color11": "#7CA2AB",
+        "color12": "#B29C87",
+        "color13": "#89ACB1",
+        "color14": "#CFB18F",
+        "color15": "#e8ddcb"
+    }
+}

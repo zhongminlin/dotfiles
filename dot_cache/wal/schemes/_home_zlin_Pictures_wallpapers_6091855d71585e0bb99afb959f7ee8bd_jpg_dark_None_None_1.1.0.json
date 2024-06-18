@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/6091855d71585e0bb99afb959f7ee8bd.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1e1009",
+        "foreground": "#dfdedb",
+        "cursor": "#dfdedb"
+    },
+    "colors": {
+        "color0": "#1e1009",
+        "color1": "#918F8B",
+        "color2": "#A39F9C",
+        "color3": "#B4AFAC",
+        "color4": "#C2BDB8",
+        "color5": "#BFC1BA",
+        "color6": "#C6C2BC",
+        "color7": "#dfdedb",
+        "color8": "#9c9b99",
+        "color9": "#918F8B",
+        "color10": "#A39F9C",
+        "color11": "#B4AFAC",
+        "color12": "#C2BDB8",
+        "color13": "#BFC1BA",
+        "color14": "#C6C2BC",
+        "color15": "#dfdedb"
+    }
+}

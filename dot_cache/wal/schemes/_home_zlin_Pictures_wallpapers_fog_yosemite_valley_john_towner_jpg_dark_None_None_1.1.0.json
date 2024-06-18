@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/fog_yosemite_valley_john_towner.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0d10",
+        "foreground": "#e6e7e6",
+        "cursor": "#e6e7e6"
+    },
+    "colors": {
+        "color0": "#0c0d10",
+        "color1": "#788792",
+        "color2": "#9DA6AD",
+        "color3": "#C0C2BC",
+        "color4": "#B5BCC3",
+        "color5": "#BCC3C7",
+        "color6": "#CED2D4",
+        "color7": "#e6e7e6",
+        "color8": "#a1a1a1",
+        "color9": "#788792",
+        "color10": "#9DA6AD",
+        "color11": "#C0C2BC",
+        "color12": "#B5BCC3",
+        "color13": "#BCC3C7",
+        "color14": "#CED2D4",
+        "color15": "#e6e7e6"
+    }
+}

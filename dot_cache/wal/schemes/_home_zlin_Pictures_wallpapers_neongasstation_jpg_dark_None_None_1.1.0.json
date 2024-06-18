@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/neongasstation.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#12040c",
+        "foreground": "#d4a8d6",
+        "cursor": "#d4a8d6"
+    },
+    "colors": {
+        "color0": "#12040c",
+        "color1": "#59226E",
+        "color2": "#713370",
+        "color3": "#85306A",
+        "color4": "#905378",
+        "color5": "#7E4685",
+        "color6": "#A55F92",
+        "color7": "#d4a8d6",
+        "color8": "#947595",
+        "color9": "#59226E",
+        "color10": "#713370",
+        "color11": "#85306A",
+        "color12": "#905378",
+        "color13": "#7E4685",
+        "color14": "#A55F92",
+        "color15": "#d4a8d6"
+    }
+}

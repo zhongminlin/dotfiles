@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/palace.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#161411",
+        "foreground": "#c9c2c1",
+        "cursor": "#c9c2c1"
+    },
+    "colors": {
+        "color0": "#161411",
+        "color1": "#C54E37",
+        "color2": "#CB6B29",
+        "color3": "#9C695D",
+        "color4": "#C5624F",
+        "color5": "#B18D6F",
+        "color6": "#757D87",
+        "color7": "#c9c2c1",
+        "color8": "#8c8787",
+        "color9": "#C54E37",
+        "color10": "#CB6B29",
+        "color11": "#9C695D",
+        "color12": "#C5624F",
+        "color13": "#B18D6F",
+        "color14": "#757D87",
+        "color15": "#c9c2c1"
+    }
+}

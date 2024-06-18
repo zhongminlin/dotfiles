@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/mt1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#121010",
+        "foreground": "#d2d9e1",
+        "cursor": "#d2d9e1"
+    },
+    "colors": {
+        "color0": "#121010",
+        "color1": "#78889D",
+        "color2": "#7E98C2",
+        "color3": "#959EAB",
+        "color4": "#E2D6A5",
+        "color5": "#9AADC7",
+        "color6": "#ABB9CA",
+        "color7": "#d2d9e1",
+        "color8": "#93979d",
+        "color9": "#78889D",
+        "color10": "#7E98C2",
+        "color11": "#959EAB",
+        "color12": "#E2D6A5",
+        "color13": "#9AADC7",
+        "color14": "#ABB9CA",
+        "color15": "#d2d9e1"
+    }
+}

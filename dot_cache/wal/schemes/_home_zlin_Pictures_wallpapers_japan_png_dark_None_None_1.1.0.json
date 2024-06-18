@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/japan.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0A121B",
+        "foreground": "#a2bbcb",
+        "cursor": "#a2bbcb"
+    },
+    "colors": {
+        "color0": "#0A121B",
+        "color1": "#35627C",
+        "color2": "#545A61",
+        "color3": "#315F80",
+        "color4": "#35698A",
+        "color5": "#457999",
+        "color6": "#4B7EA0",
+        "color7": "#a2bbcb",
+        "color8": "#71828e",
+        "color9": "#35627C",
+        "color10": "#545A61",
+        "color11": "#315F80",
+        "color12": "#35698A",
+        "color13": "#457999",
+        "color14": "#4B7EA0",
+        "color15": "#a2bbcb"
+    }
+}

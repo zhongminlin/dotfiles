@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/SPOILER_catalina-with-galaxy-background-wa-0EBEC.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F0C19",
+        "foreground": "#a49dc1",
+        "cursor": "#a49dc1"
+    },
+    "colors": {
+        "color0": "#0F0C19",
+        "color1": "#232764",
+        "color2": "#4A3252",
+        "color3": "#513A6B",
+        "color4": "#5D496C",
+        "color5": "#273588",
+        "color6": "#453E91",
+        "color7": "#a49dc1",
+        "color8": "#726d87",
+        "color9": "#232764",
+        "color10": "#4A3252",
+        "color11": "#513A6B",
+        "color12": "#5D496C",
+        "color13": "#273588",
+        "color14": "#453E91",
+        "color15": "#a49dc1"
+    }
+}

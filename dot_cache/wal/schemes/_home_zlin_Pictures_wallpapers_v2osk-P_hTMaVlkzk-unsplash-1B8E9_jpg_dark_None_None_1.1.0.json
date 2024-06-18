@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/v2osk-P_hTMaVlkzk-unsplash-1B8E9.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0c18",
+        "foreground": "#dec6e4",
+        "cursor": "#dec6e4"
+    },
+    "colors": {
+        "color0": "#0e0c18",
+        "color1": "#93789F",
+        "color2": "#B67CB2",
+        "color3": "#7A85C5",
+        "color4": "#A38EAD",
+        "color5": "#D99AA2",
+        "color6": "#A09CE3",
+        "color7": "#dec6e4",
+        "color8": "#9b8a9f",
+        "color9": "#93789F",
+        "color10": "#B67CB2",
+        "color11": "#7A85C5",
+        "color12": "#A38EAD",
+        "color13": "#D99AA2",
+        "color14": "#A09CE3",
+        "color15": "#dec6e4"
+    }
+}

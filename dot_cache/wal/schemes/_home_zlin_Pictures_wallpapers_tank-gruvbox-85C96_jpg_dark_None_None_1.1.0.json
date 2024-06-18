@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/tank-gruvbox-85C96.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#111417",
+        "foreground": "#d4dae4",
+        "cursor": "#d4dae4"
+    },
+    "colors": {
+        "color0": "#111417",
+        "color1": "#887268",
+        "color2": "#327389",
+        "color3": "#72778A",
+        "color4": "#7C8397",
+        "color5": "#9097AB",
+        "color6": "#A9B4CB",
+        "color7": "#d4dae4",
+        "color8": "#94989f",
+        "color9": "#887268",
+        "color10": "#327389",
+        "color11": "#72778A",
+        "color12": "#7C8397",
+        "color13": "#9097AB",
+        "color14": "#A9B4CB",
+        "color15": "#d4dae4"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/izu-peninsula-mountain-sunset-1920\u00d71080.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0f0d",
+        "foreground": "#e5d8d8",
+        "cursor": "#e5d8d8"
+    },
+    "colors": {
+        "color0": "#0d0f0d",
+        "color1": "#677288",
+        "color2": "#947887",
+        "color3": "#7D8193",
+        "color4": "#A28F9B",
+        "color5": "#D8ABAE",
+        "color6": "#F0C2BE",
+        "color7": "#e5d8d8",
+        "color8": "#a09797",
+        "color9": "#677288",
+        "color10": "#947887",
+        "color11": "#7D8193",
+        "color12": "#A28F9B",
+        "color13": "#D8ABAE",
+        "color14": "#F0C2BE",
+        "color15": "#e5d8d8"
+    }
+}

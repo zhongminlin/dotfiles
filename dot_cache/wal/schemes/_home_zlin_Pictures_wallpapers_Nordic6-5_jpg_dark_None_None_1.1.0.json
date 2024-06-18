@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/Nordic6-5.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E151D",
+        "foreground": "#abaeba",
+        "cursor": "#abaeba"
+    },
+    "colors": {
+        "color0": "#0E151D",
+        "color1": "#192C4E",
+        "color2": "#2E3A43",
+        "color3": "#354549",
+        "color4": "#5F5753",
+        "color5": "#A4623E",
+        "color6": "#CCA95B",
+        "color7": "#abaeba",
+        "color8": "#777982",
+        "color9": "#192C4E",
+        "color10": "#2E3A43",
+        "color11": "#354549",
+        "color12": "#5F5753",
+        "color13": "#A4623E",
+        "color14": "#CCA95B",
+        "color15": "#abaeba"
+    }
+}

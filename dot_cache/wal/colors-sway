@@ -1,0 +1,21 @@
+set $wallpaper /home/zlin/.config/wpg/wallpapers/undefined - Imgur(8).jpg
+
+set $background #0F171A
+set $foreground #eac5be
+
+set $color0 #0F171A
+set $color1 #5F515F
+set $color2 #A3665B
+set $color3 #F19D74
+set $color4 #D2A26C
+set $color5 #817C87
+set $color6 #BFA7A8
+set $color7 #eac5be
+set $color8 #a38985
+set $color9 #5F515F
+set $color10 #A3665B
+set $color11 #F19D74
+set $color12 #D2A26C
+set $color13 #817C87
+set $color14 #BFA7A8
+set $color15 #eac5be

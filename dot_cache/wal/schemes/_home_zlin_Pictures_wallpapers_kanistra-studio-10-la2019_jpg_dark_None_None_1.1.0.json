@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/kanistra-studio-10-la2019.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0604",
+        "foreground": "#c5c0b1",
+        "cursor": "#c5c0b1"
+    },
+    "colors": {
+        "color0": "#0b0604",
+        "color1": "#30324C",
+        "color2": "#2A385D",
+        "color3": "#4F3B49",
+        "color4": "#544452",
+        "color5": "#605E61",
+        "color6": "#8C4E38",
+        "color7": "#c5c0b1",
+        "color8": "#89867b",
+        "color9": "#30324C",
+        "color10": "#2A385D",
+        "color11": "#4F3B49",
+        "color12": "#544452",
+        "color13": "#605E61",
+        "color14": "#8C4E38",
+        "color15": "#c5c0b1"
+    }
+}

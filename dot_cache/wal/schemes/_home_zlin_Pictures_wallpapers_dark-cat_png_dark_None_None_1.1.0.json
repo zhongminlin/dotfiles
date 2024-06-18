@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/dark-cat.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0812",
+        "foreground": "#e5cbbb",
+        "cursor": "#e5cbbb"
+    },
+    "colors": {
+        "color0": "#0a0812",
+        "color1": "#82645A",
+        "color2": "#916F61",
+        "color3": "#A57E6C",
+        "color4": "#BC9077",
+        "color5": "#CE9E81",
+        "color6": "#D4A283",
+        "color7": "#e5cbbb",
+        "color8": "#a08e82",
+        "color9": "#82645A",
+        "color10": "#916F61",
+        "color11": "#A57E6C",
+        "color12": "#BC9077",
+        "color13": "#CE9E81",
+        "color14": "#D4A283",
+        "color15": "#e5cbbb"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/abstract_space_planet_galaxy_green_stars_blue_night-2041883.jpg!d_auto_x2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010A12",
+        "foreground": "#acc6ac",
+        "cursor": "#acc6ac"
+    },
+    "colors": {
+        "color0": "#010A12",
+        "color1": "#03685B",
+        "color2": "#087564",
+        "color3": "#287C64",
+        "color4": "#14826C",
+        "color5": "#338568",
+        "color6": "#4F916A",
+        "color7": "#acc6ac",
+        "color8": "#788a78",
+        "color9": "#03685B",
+        "color10": "#087564",
+        "color11": "#287C64",
+        "color12": "#14826C",
+        "color13": "#338568",
+        "color14": "#4F916A",
+        "color15": "#acc6ac"
+    }
+}

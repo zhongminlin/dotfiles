@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/wallhaven-odrxq7-C9DA2.png",
+    "alpha": "100",
+    "special": {
+        "background": "#100f0f",
+        "foreground": "#e5e7ea",
+        "cursor": "#e5e7ea"
+    },
+    "colors": {
+        "color0": "#100f0f",
+        "color1": "#A4A7AC",
+        "color2": "#C1BEBD",
+        "color3": "#B7BCC3",
+        "color4": "#BDC2C9",
+        "color5": "#CDD1D6",
+        "color6": "#D9DDE2",
+        "color7": "#e5e7ea",
+        "color8": "#a0a1a3",
+        "color9": "#A4A7AC",
+        "color10": "#C1BEBD",
+        "color11": "#B7BCC3",
+        "color12": "#BDC2C9",
+        "color13": "#CDD1D6",
+        "color14": "#D9DDE2",
+        "color15": "#e5e7ea"
+    }
+}

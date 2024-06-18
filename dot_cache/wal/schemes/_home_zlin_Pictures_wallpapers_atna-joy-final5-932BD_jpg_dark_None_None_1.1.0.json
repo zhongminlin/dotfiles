@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/atna-joy-final5-932BD.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F0D0A",
+        "foreground": "#bccbcd",
+        "cursor": "#bccbcd"
+    },
+    "colors": {
+        "color0": "#0F0D0A",
+        "color1": "#3C4042",
+        "color2": "#324F4B",
+        "color3": "#2C675B",
+        "color4": "#4D5B59",
+        "color5": "#5E7F80",
+        "color6": "#73919B",
+        "color7": "#bccbcd",
+        "color8": "#838e8f",
+        "color9": "#3C4042",
+        "color10": "#324F4B",
+        "color11": "#2C675B",
+        "color12": "#4D5B59",
+        "color13": "#5E7F80",
+        "color14": "#73919B",
+        "color15": "#bccbcd"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/faded-mountains.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E0D0D",
+        "foreground": "#dadada",
+        "cursor": "#dadada"
+    },
+    "colors": {
+        "color0": "#0E0D0D",
+        "color1": "#85877B",
+        "color2": "#90958C",
+        "color3": "#B8BBB9",
+        "color4": "#BEC0BF",
+        "color5": "#C3C0BB",
+        "color6": "#BFC1C0",
+        "color7": "#dadada",
+        "color8": "#989898",
+        "color9": "#85877B",
+        "color10": "#90958C",
+        "color11": "#B8BBB9",
+        "color12": "#BEC0BF",
+        "color13": "#C3C0BB",
+        "color14": "#BFC1C0",
+        "color15": "#dadada"
+    }
+}

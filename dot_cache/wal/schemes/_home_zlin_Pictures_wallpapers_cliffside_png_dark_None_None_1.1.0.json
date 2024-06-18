@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/cliffside.png",
+    "alpha": "100",
+    "special": {
+        "background": "#121313",
+        "foreground": "#adb4b8",
+        "cursor": "#adb4b8"
+    },
+    "colors": {
+        "color0": "#121313",
+        "color1": "#51534D",
+        "color2": "#5C625C",
+        "color3": "#696150",
+        "color4": "#5E6464",
+        "color5": "#646D6F",
+        "color6": "#8F775C",
+        "color7": "#adb4b8",
+        "color8": "#797d80",
+        "color9": "#51534D",
+        "color10": "#5C625C",
+        "color11": "#696150",
+        "color12": "#5E6464",
+        "color13": "#646D6F",
+        "color14": "#8F775C",
+        "color15": "#adb4b8"
+    }
+}

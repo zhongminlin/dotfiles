@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/zlin/Pictures/wallpapers/nerv3.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#100f0f",
+        "foreground": "#dd9d8a",
+        "cursor": "#dd9d8a"
+    },
+    "colors": {
+        "color0": "#100f0f",
+        "color1": "#5C4831",
+        "color2": "#9A241D",
+        "color3": "#8F3327",
+        "color4": "#AF3628",
+        "color5": "#CC2E21",
+        "color6": "#A5462D",
+        "color7": "#dd9d8a",
+        "color8": "#9a6d60",
+        "color9": "#5C4831",
+        "color10": "#9A241D",
+        "color11": "#8F3327",
+        "color12": "#AF3628",
+        "color13": "#CC2E21",
+        "color14": "#A5462D",
+        "color15": "#dd9d8a"
+    }
+}

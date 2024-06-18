@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/zlin/.config/wpg/wallpapers/undefined - Imgur(8).jpg"
+let background = "#0F171A"
+let foreground = "#eac5be"
+let cursor     = "#eac5be"
+
+" Colors
+let color0  = "#0F171A"
+let color1  = "#5F515F"
+let color2  = "#A3665B"
+let color3  = "#F19D74"
+let color4  = "#D2A26C"
+let color5  = "#817C87"
+let color6  = "#BFA7A8"
+let color7  = "#eac5be"
+let color8  = "#a38985"
+let color9  = "#5F515F"
+let color10 = "#A3665B"
+let color11 = "#F19D74"
+let color12 = "#D2A26C"
+let color13 = "#817C87"
+let color14 = "#BFA7A8"
+let color15 = "#eac5be"
