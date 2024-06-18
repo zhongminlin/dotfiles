@@ -3,12 +3,10 @@
 install [chezmoi](https://github.com/twpayne/chezmoi)
 ### arch
 ```bash
-sudo pacman -Syu
 sudo pacman -S chezmoi
 ```
 ### void
 ```bash
-sudo xbps-install -Syu
 sudo xbps-install -S chezmoi
 ```
 ## apply config
