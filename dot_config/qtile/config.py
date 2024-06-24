@@ -112,11 +112,11 @@ keys = [
     # power menu as commandset
     Key([mod], 'x', lazy.run_extension(extension.CommandSet(
         commands={
-            'Shutdown': 'systemctl poweroff',
-            'Reboot': 'systemctl reboot',
-            'Suspend': 'systemctl suspend',
+            'shutdown': 'systemctl poweroff',
+            'reboot': 'systemctl reboot',
+            'suspend': 'systemctl suspend',
             # 'Lock Screen': 'pfetch',
-            'Log Out': 'qtile cmd-obj -f shutdown',
+            'logout': 'qtile cmd-obj -f shutdown',
             # 'Hibernate': 'systemctl hibernate',
             },
         # dmenu_bottom = True,
