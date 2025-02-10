@@ -1,0 +1,9 @@
+#!/bin/sh
+
+# Source the environment variables from .xprofile
+if [ -f "$HOME/.xprofile" ]; then
+    . "$HOME/.xprofile"
+fi
+
+# Start the Qtile window manager
+exec qtile start

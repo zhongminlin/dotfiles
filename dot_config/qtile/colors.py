@@ -37,3 +37,22 @@ catppuccin_mocha = [
     "#cba6f7", # mauve
     "#f2cdcd", # flamingo
 ]
+
+pywal = [
+    "#05060a",
+    "#0e101b",
+    "#20233c",
+    "#939391",
+    "#a6a6a8",
+    "#dadad8",
+    "#ececea",
+    "#fffaf4",
+    "#965455",
+    "#edda95",
+    "#f0e3af",
+    "#7b8b6f",
+    "#b4c9c8",
+    "#8696a7",
+    "#c9c0d3",
+    "#6b5152",
+]

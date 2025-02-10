@@ -20,4 +20,4 @@ alias tri="block 0 000000010 000000101 0000010201 00001020201 000102030201 00102
 eval "$(starship init bash)"
 
 # fetch
-pfetch
+fastfetch

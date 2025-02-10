@@ -1,0 +1,16 @@
+[general]
+import = [
+  # import fonts config
+  "~/.config/alacritty/fonts.toml",
+  # import colors config
+  # uncomment the flavour you want below:
+  "~/.config/alacritty/colors.toml"
+  # "~/.config/alacritty/morandi-dark.toml"
+  # "~/.config/alacritty/catppuccin-latte.toml"
+  # "~/.config/alacritty/catppuccin-frappe.toml"
+  # "~/.config/alacritty/catppuccin-macchiato.toml"
+  # "~/.config/alacritty/catppuccin-mocha.toml"
+]
+
+[window]
+opacity = 0.95

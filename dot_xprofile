@@ -7,5 +7,8 @@ export QT_IM_MODULE=fcitx
 export SDL_IM_MODULE=fcitx
 export XMODIFIERS=@im=fcitx
 
+# qt
+export QT_QPA_PLATFORMTHEME=qt5ct
+
 # ranger
 export RANGER_LOAD_DEFAULT_RC=false

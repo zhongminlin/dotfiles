@@ -29,10 +29,11 @@ from libqtile import bar, layout, qtile, widget, extension, hook
 from libqtile.config import Click, Drag, Group, Key, Match, Screen
 from libqtile.lazy import lazy
 from libqtile.utils import guess_terminal
+from pathlib import Path
 
 import colors
 
-colors = colors.morandi_dark
+colors = colors.pywal
 
 mod = "mod4"
 terminal = guess_terminal()
@@ -42,8 +43,8 @@ fm = 'thunar'
 dmenu_theme = {
     "background" : colors[0],
     "foreground" : colors[7],
-    "selected_background" : colors[15],
-    "selected_foreground" : colors[7],
+    "selected_background" : colors[13],
+    "selected_foreground" : colors[0],
 }
 
 keys = [
@@ -100,6 +101,7 @@ keys = [
         # dmenu_height=24,  # Only supported by some dmenu forks
     ))),
     # Key([mod], "d", lazy.spawn('dmenu_run'), desc='Dmenu run launcher'),
+    Key([mod, "shift"], "r", lazy.spawn("/home/zlin/.config/rofi/launchers/type-1/launcher.sh"), desc="rofi"),
     # applications
     Key([mod, "shift"], "w", lazy.spawn(browser), desc='Launch browser'),
     Key([mod, "shift"], "f", lazy.spawn(fm), desc='Launch file manager'),
@@ -122,7 +124,18 @@ keys = [
         # dmenu_bottom = True,
         **dmenu_theme,
         ))), 
-
+    # theme menu as commandset
+    Key([mod, "shift"], 't', lazy.run_extension(extension.CommandSet(
+        commands={
+                dir_.name: f"{dir_}/apply.sh"
+                for dir_ in sorted(Path("~/.config/themes").expanduser().glob("*"))
+                if (dir_ / "apply.sh").exists()
+        },
+        dmenu_prompt="Select a theme:",
+        **dmenu_theme,
+        ))), 
+    # launch save color script in terminal
+    Key([mod, "shift"], "s", lazy.spawn("alacritty -e /home/zlin/.config/themes/pywal/save.sh"), desc="Save color theme"),
 ]
 
 # Add key bindings to switch VTs in Wayland.
@@ -139,7 +152,7 @@ for vt in range(1, 8):
     )
 
 grouplabel = ["壹", "贰", "叁", "肆", "伍", "陆", "柒", "捌", "玖"]
-groups = [Group(f"{i+1}", label=grouplabel[i]) for i in range(9)]
+groups = [Group(f"{i+1}", label=grouplabel[i]) for i in range(5)]
 # groups = [Group(i) for i in "123456789"]
 
 for i in groups:
@@ -211,7 +224,7 @@ screens = [
                 widget.Sep(padding=15, size_percent=10),
                 widget.GroupBox(
                     active=colors[7],
-                    inactive=colors[2],
+                    inactive=colors[3],
                     this_current_screen_border=colors[3],
                     # this_current_border=colors[15],
                 ),
@@ -231,12 +244,13 @@ screens = [
                 widget.Sep(padding=15, size_percent=10),
                 widget.Memory(fmt='  {}',  format='{MemUsed: .1f}{mm}',measure_mem='G',foreground=colors[11]),
                 widget.Sep(padding=15, size_percent=10),
-                widget.DF(visible_on_warn=False,fmt='󰋊  {}',foreground=colors[3]),
+                widget.DF(visible_on_warn=False,fmt='󰋊  {}',foreground=colors[14]),
                 widget.Sep(padding=15, size_percent=10),
-                widget.Battery(fmt='󰁹  {}',format='{char} {percent:2.0%} {hour:d}:{min:02d}',foreground=colors[9]),
+                widget.Battery(fmt='󰁹  {}',format='{char} {percent:2.0%}',foreground=colors[10]),
+                # widget.Battery(fmt='󰁹  {}',format='{char} {percent:2.0%} {hour:d}:{min:02d}',foreground=colors[10]),
                 widget.Sep(padding=15, size_percent=10),
                 widget.WidgetBox(widgets=[
-                    widget.Backlight(fmt='󰃟  {}',backlight_name='amdgpu_bl0'),
+                    widget.Backlight(fmt='󰃟  {}',backlight_name='intel_backlight'),
                     widget.Sep(padding=15, size_percent=10),
                     widget.PulseVolume(fmt='󰕾  {}'),
                     widget.Sep(padding=15, size_percent=10),

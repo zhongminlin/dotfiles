@@ -1,0 +1,43 @@
+# Zathura configuration file
+set adjust-open                 "best-fit"
+set recolor                     "true"
+set recolor-keephue             "true"
+
+# semi transparent background
+set default-bg                  rgba(5,6,10,0.95)
+set default-fg                  "#fffaf4"
+
+set statusbar-bg                "#05060a"
+set statusbar-fg                "#fffaf4"
+set inputbar-bg                 "#05060a"
+set inputbar-fg                 "#8696a7"
+
+set highlight-color             "#e0ebdb"
+set highlight-active-color      "#b4c9c8"
+
+set index-bg                    "#05060a"
+set index-fg                    "#7b8b6f" 
+set index-active-bg             "#edda95"
+set index-active-fg             "#05060a" 
+
+set notification-error-bg       "#965455" 
+set notification-error-fg       "#05060a" 
+set notification-warning-bg     "#edda95" 
+set notification-warning-fg     "#05060a" 
+set notification-bg             "#8696a7" 
+set notification-fg             "#05060a" 
+
+set completion-bg               "#05060a" 
+set completion-fg               "#7b8b6f" 
+set completion-group-bg         "#05060a" 
+set completion-group-fg         "#edda95" 
+set completion-highlight-bg     "#b4c9c8" 
+set completion-highlight-fg     "#05060a" 
+
+set render-loading              true
+set render-loading-fg           "#fffaf4"
+set render-loading-bg           "#05060a"
+
+# Recolor mode settings, fully transparent light background
+set recolor-lightcolor          rgba(5,6,10,0)
+set recolor-darkcolor           "#fffaf4"

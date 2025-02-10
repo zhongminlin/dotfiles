@@ -1,6 +1,6 @@
 import colors
 
-colors = colors.morandi_dark
+colors = colors.pywal
 
 config.load_autoconfig()
 
