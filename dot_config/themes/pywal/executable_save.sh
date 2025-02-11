@@ -17,3 +17,4 @@ if [[ -z "$DEST_FOLDER" ]]; then
 fi
 
 cp -r "$TDIR"/  "$CDIR"/themes/"$DEST_FOLDER"/
+cp "$HOME/.cache/wal/colors.sh" "$CDIR"/themes/"$DEST_FOLDER"/
