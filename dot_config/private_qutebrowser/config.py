@@ -10,6 +10,9 @@ c.colors.webpage.darkmode.enabled = True
 # clipboard
 c.content.javascript.clipboard = 'access-paste'
 
+# proxy
+c.content.proxy = 'system' # 'http://127.0.0.1:10808'
+
 # fonts
 # c.fonts.default_family = [ "CaskaydiaCove Nerd Font", "Noto Color Emoji" ]
 # c.fonts.default_size = "8pt"

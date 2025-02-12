@@ -48,7 +48,7 @@ dark_value='0.30'
 
 # Rofi
 rofi_font='Noto Sans 10'
-rofi_icon='flattrcolor'
+rofi_icon='Gruvbox-Light'
 
 # Terminal
 terminal_font_name='NotoSansM Nerd Font Mono'
@@ -56,7 +56,7 @@ terminal_font_size='7'
 
 # Geany
 geany_colors='wal.conf'
-geany_font='Noto Sans 10'
+geany_font='NotoSansM Nerd Font Mono 10'
 
 # base16 colors for neovim, qtile, qutebrowser
 # set to 'pywal' to use pywal colors

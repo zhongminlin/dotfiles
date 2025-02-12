@@ -231,12 +231,12 @@ foreground = default
 # You can define as many as 8 different colors. They range from bottom to top of screen
 gradient = 1
 gradient_count = 6
-gradient_color_1 = '#8696a7'
-gradient_color_2 = '#9ca8b8'
-gradient_color_3 = '#b4c9c8'
-gradient_color_4 = '#e0ebdb'
-gradient_color_5 = '#7b8b6f'
-gradient_color_6 = '#96a48b'
+gradient_color_1 = '#6D9A6B'
+gradient_color_2 = '#7ec67c'
+gradient_color_3 = '#96A795'
+gradient_color_4 = '#9cd398'
+gradient_color_5 = '#4A504C'
+gradient_color_6 = '#48a960'
 ; gradient_color_7 = '#cc5933'
 ; gradient_color_8 = '#cc3333'
 

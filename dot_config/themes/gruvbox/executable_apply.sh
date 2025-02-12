@@ -38,8 +38,9 @@ random_theme() {
 
 preset_theme () {
 	COLORFILE="$TDIR/colors.sh"
-	THEMEBASH="$TDIR/theme.bash"
 	if [[ -f "$COLORFILE" ]]; then
+		source "$COLORFILE" # grab wallpaper path
+		wal --cols16 "lighten" -q -n -s -t -e -i "$wallpaper" # update wal cache for other pywal compatible programs
 		cat "$COLORFILE" > "$CDIR"/themes/"$THEME"/theme.bash # save pywal colors
 		cat "$CDIR"/themes/"$THEME"/config.bash >> "$CDIR"/themes/"$THEME"/theme.bash # add theme config variables
 		echo -e "\n# Don't Delete This File" >> "$CDIR"/themes/"$THEME"/theme.bash
@@ -595,13 +596,14 @@ apply_cava () {
 	#~ EOF
 #~ }
 
-## Write Brave colors with current theme colors
-#~ apply_brave () {
+## Write browser colors with current theme colors
+apply_browser () {
+	pywalfox update
 	#~ # Bento start page
 	#~ . $HOME/BentoPywal/generate-theme.sh
 	#~ # Brave theme
 	#~ . $HOME/ChromiumPywal/generate-theme.sh
-#~ }
+}
 
 ## Write Qutebrowser colors with current theme colors
 apply_qute () {
@@ -750,7 +752,7 @@ apply_geany
 apply_zathura
 apply_cava
 #~ apply_bashtop
-#~ apply_brave
+apply_browser
 apply_nvim
 #~ apply_compositor
 #~ apply_bspwm

@@ -38,8 +38,9 @@ random_theme() {
 
 preset_theme () {
 	COLORFILE="$TDIR/colors.sh"
-	THEMEBASH="$TDIR/theme.bash"
 	if [[ -f "$COLORFILE" ]]; then
+		source "$COLORFILE" # grab wallpaper path
+		wal --cols16 "lighten" -q -n -s -t -e -i "$wallpaper" # update wal cache for other pywal compatible programs
 		cat "$COLORFILE" > "$CDIR"/themes/"$THEME"/theme.bash # save pywal colors
 		cat "$CDIR"/themes/"$THEME"/config.bash >> "$CDIR"/themes/"$THEME"/theme.bash # add theme config variables
 		echo -e "\n# Don't Delete This File" >> "$CDIR"/themes/"$THEME"/theme.bash
@@ -403,33 +404,36 @@ apply_geany() {
 }
 
 # Appearance --------------------------------
-#~ apply_appearance() {
-	#~ XFILE="$PATH_BSPWM/xsettingsd"
-	#~ GTK2FILE="$HOME/.gtkrc-2.0"
-	#~ GTK3FILE="$PATH_CONF/gtk-3.0/settings.ini"
+apply_appearance() {
+	XFILE="$PATH_CONF/xsettingsd/xsettingsd.conf"
+	GTK2FILE="$HOME/.gtkrc-2.0"
+	GTK3FILE="$PATH_CONF/gtk-3.0/settings.ini"
 
-	#~ # apply gtk theme, icons, cursor & fonts
-	#~ if [[ `pidof xsettingsd` ]]; then
-		#~ sed -i -e "s|Net/ThemeName .*|Net/ThemeName \"$gtk_theme\"|g" ${XFILE}
-		#~ sed -i -e "s|Net/IconThemeName .*|Net/IconThemeName \"$icon_theme\"|g" ${XFILE}
-		#~ sed -i -e "s|Gtk/CursorThemeName .*|Gtk/CursorThemeName \"$cursor_theme\"|g" ${XFILE}
-	#~ else
-		#~ sed -i -e "s/gtk-font-name=.*/gtk-font-name=\"$gtk_font\"/g" ${GTK2FILE}
-		#~ sed -i -e "s/gtk-theme-name=.*/gtk-theme-name=\"$gtk_theme\"/g" ${GTK2FILE}
-		#~ sed -i -e "s/gtk-icon-theme-name=.*/gtk-icon-theme-name=\"$icon_theme\"/g" ${GTK2FILE}
-		#~ sed -i -e "s/gtk-cursor-theme-name=.*/gtk-cursor-theme-name=\"$cursor_theme\"/g" ${GTK2FILE}
+	# apply gtk theme, icons, cursor & fonts
+	if [[ `pidof xsettingsd` ]]; then
+		sed -i -e "s|Net/ThemeName .*|Net/ThemeName \"$gtk_theme\"|g" ${XFILE}
+		sed -i -e "s|Net/IconThemeName .*|Net/IconThemeName \"$icon_theme\"|g" ${XFILE}
+		sed -i -e "s|Gtk/CursorThemeName .*|Gtk/CursorThemeName \"$cursor_theme\"|g" ${XFILE}
+	else
+		sed -i -e "s/gtk-font-name=.*/gtk-font-name=\"$gtk_font\"/g" ${GTK2FILE}
+		sed -i -e "s/gtk-theme-name=.*/gtk-theme-name=\"$gtk_theme\"/g" ${GTK2FILE}
+		sed -i -e "s/gtk-icon-theme-name=.*/gtk-icon-theme-name=\"$icon_theme\"/g" ${GTK2FILE}
+		sed -i -e "s/gtk-cursor-theme-name=.*/gtk-cursor-theme-name=\"$cursor_theme\"/g" ${GTK2FILE}
 		
-		#~ sed -i -e "s/gtk-font-name=.*/gtk-font-name=$gtk_font/g" ${GTK3FILE}
-		#~ sed -i -e "s/gtk-theme-name=.*/gtk-theme-name=$gtk_theme/g" ${GTK3FILE}
-		#~ sed -i -e "s/gtk-icon-theme-name=.*/gtk-icon-theme-name=$icon_theme/g" ${GTK3FILE}
-		#~ sed -i -e "s/gtk-cursor-theme-name=.*/gtk-cursor-theme-name=$cursor_theme/g" ${GTK3FILE}
-	#~ fi
+		sed -i -e "s/gtk-font-name=.*/gtk-font-name=$gtk_font/g" ${GTK3FILE}
+		sed -i -e "s/gtk-theme-name=.*/gtk-theme-name=$gtk_theme/g" ${GTK3FILE}
+		sed -i -e "s/gtk-icon-theme-name=.*/gtk-icon-theme-name=$icon_theme/g" ${GTK3FILE}
+		sed -i -e "s/gtk-cursor-theme-name=.*/gtk-cursor-theme-name=$cursor_theme/g" ${GTK3FILE}
+	fi
 	
-	#~ # inherit cursor theme
+	# inherit cursor theme
 	#~ if [[ -f "$HOME"/.icons/default/index.theme ]]; then
 		#~ sed -i -e "s/Inherits=.*/Inherits=$cursor_theme/g" "$HOME"/.icons/default/index.theme
 	#~ fi	
-#~ }
+	# apply qt theme using Kvantum
+	cp "${HOME}"/.cache/wal/pywal.kvconfig "${PATH_CONF}"/Kvantum/pywal/pywal.kvconfig
+	cp "${HOME}"/.cache/wal/pywal.svg "${PATH_CONF}"/Kvantum/pywal/pywal.svg
+}
 
 # Dunst -------------------------------------
 #~ apply_dunst() {
@@ -595,13 +599,14 @@ apply_cava () {
 	#~ EOF
 #~ }
 
-## Write Brave colors with current theme colors
-#~ apply_brave () {
+## Write browser colors with current theme colors
+apply_browser () {
+	pywalfox update
 	#~ # Bento start page
 	#~ . $HOME/BentoPywal/generate-theme.sh
 	#~ # Brave theme
 	#~ . $HOME/ChromiumPywal/generate-theme.sh
-#~ }
+}
 
 ## Write Qutebrowser colors with current theme colors
 apply_qute () {
@@ -745,12 +750,12 @@ apply_rofi
 #~ apply_netmenu
 apply_terminal
 apply_geany
-#~ apply_appearance
+apply_appearance
 #~ apply_dunst
 apply_zathura
 apply_cava
 #~ apply_bashtop
-#~ apply_brave
+apply_browser
 apply_nvim
 #~ apply_compositor
 #~ apply_bspwm

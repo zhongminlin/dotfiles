@@ -10,3 +10,5 @@ settings:
     global: false
   content.javascript.clipboard:
     global: access-paste
+  content.proxy:
+    global: system

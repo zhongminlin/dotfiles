@@ -4,40 +4,40 @@ set recolor                     "true"
 set recolor-keephue             "true"
 
 # semi transparent background
-set default-bg                  rgba(5,6,10,0.95)
-set default-fg                  "#fffaf4"
+set default-bg                  rgba(13,13,14,0.95)
+set default-fg                  "#c2c2c2"
 
-set statusbar-bg                "#05060a"
-set statusbar-fg                "#fffaf4"
-set inputbar-bg                 "#05060a"
-set inputbar-fg                 "#8696a7"
+set statusbar-bg                "#0D0D0E"
+set statusbar-fg                "#c2c2c2"
+set inputbar-bg                 "#0D0D0E"
+set inputbar-fg                 "#6D9A6B"
 
-set highlight-color             "#e0ebdb"
-set highlight-active-color      "#b4c9c8"
+set highlight-color             "#9cd398"
+set highlight-active-color      "#96A795"
 
-set index-bg                    "#05060a"
-set index-fg                    "#7b8b6f" 
-set index-active-bg             "#edda95"
-set index-active-fg             "#05060a" 
+set index-bg                    "#0D0D0E"
+set index-fg                    "#4A504C" 
+set index-active-bg             "#616A62"
+set index-active-fg             "#0D0D0E" 
 
-set notification-error-bg       "#965455" 
-set notification-error-fg       "#05060a" 
-set notification-warning-bg     "#edda95" 
-set notification-warning-fg     "#05060a" 
-set notification-bg             "#8696a7" 
-set notification-fg             "#05060a" 
+set notification-error-bg       "#384848" 
+set notification-error-fg       "#0D0D0E" 
+set notification-warning-bg     "#616A62" 
+set notification-warning-fg     "#0D0D0E" 
+set notification-bg             "#6D9A6B" 
+set notification-fg             "#0D0D0E" 
 
-set completion-bg               "#05060a" 
-set completion-fg               "#7b8b6f" 
-set completion-group-bg         "#05060a" 
-set completion-group-fg         "#edda95" 
-set completion-highlight-bg     "#b4c9c8" 
-set completion-highlight-fg     "#05060a" 
+set completion-bg               "#0D0D0E" 
+set completion-fg               "#4A504C" 
+set completion-group-bg         "#0D0D0E" 
+set completion-group-fg         "#616A62" 
+set completion-highlight-bg     "#96A795" 
+set completion-highlight-fg     "#0D0D0E" 
 
 set render-loading              true
-set render-loading-fg           "#fffaf4"
-set render-loading-bg           "#05060a"
+set render-loading-fg           "#c2c2c2"
+set render-loading-bg           "#0D0D0E"
 
 # Recolor mode settings, fully transparent light background
-set recolor-lightcolor          rgba(5,6,10,0)
-set recolor-darkcolor           "#fffaf4"
+set recolor-lightcolor          rgba(13,13,14,0)
+set recolor-darkcolor           "#c2c2c2"
