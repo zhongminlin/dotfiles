@@ -431,7 +431,7 @@ apply_appearance() {
 		#~ sed -i -e "s/Inherits=.*/Inherits=$cursor_theme/g" "$HOME"/.icons/default/index.theme
 	#~ fi	
 
-    # apply qt theme using Kvantum
+	# apply qt theme using Kvantum
 	cp "${HOME}"/.cache/wal/pywal.kvconfig "${PATH_CONF}"/Kvantum/pywal/pywal.kvconfig
 	cp "${HOME}"/.cache/wal/pywal.svg "${PATH_CONF}"/Kvantum/pywal/pywal.svg
 }
