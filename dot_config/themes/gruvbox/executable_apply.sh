@@ -40,7 +40,7 @@ preset_theme () {
 	COLORFILE="$TDIR/colors.sh"
 	if [[ -f "$COLORFILE" ]]; then
 		source "$COLORFILE" # grab wallpaper path
-		wal --cols16 "lighten" -q -n -s -t -e -i "$wallpaper" # update wal cache for other pywal compatible programs
+		wal --cols16 "lighten" -b "$color0" -q -n -s -t -e -i "$wallpaper" # update wal cache for other pywal compatible programs
 		cat "$COLORFILE" > "$CDIR"/themes/"$THEME"/theme.bash # save pywal colors
 		cat "$CDIR"/themes/"$THEME"/config.bash >> "$CDIR"/themes/"$THEME"/theme.bash # add theme config variables
 		echo -e "\n# Don't Delete This File" >> "$CDIR"/themes/"$THEME"/theme.bash
