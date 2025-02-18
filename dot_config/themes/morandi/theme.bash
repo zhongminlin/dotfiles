@@ -53,7 +53,9 @@ base16_colors='morandi'
 
 # Appearance
 gtk_font='Noto Sans 9'
-gtk_theme='Gruvbox-Dark'
+gtk_theme='adw-gtk3-dark'
+qt_font='Noto Sans,12'
+qt_theme='kvantum'
 icon_theme='Gruvbox-Light'
 cursor_theme=''
 

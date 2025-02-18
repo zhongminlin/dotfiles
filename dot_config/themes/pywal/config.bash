@@ -28,8 +28,10 @@ base16_colors='pywal'
 
 # Appearance
 gtk_font='Noto Sans 9'
-gtk_theme='Gruvbox-Dark'
-icon_theme='Gruvbox-Light'
+gtk_theme='adw-gtk3-dark'
+qt_font='Noto Sans,12'
+qt_theme='kvantum'
+icon_theme='Papirus-Dark'
 cursor_theme=''
 
 # Dunst

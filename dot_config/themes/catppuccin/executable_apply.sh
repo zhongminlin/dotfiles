@@ -408,6 +408,8 @@ apply_appearance() {
 	XFILE="$PATH_CONF/xsettingsd/xsettingsd.conf"
 	GTK2FILE="$HOME/.gtkrc-2.0"
 	GTK3FILE="$PATH_CONF/gtk-3.0/settings.ini"
+	QT5FILE="$PATH_CONF/qt5ct/qt5ct.conf"
+	QT6FILE="$PATH_CONF/qt6ct/qt6ct.conf"
 
 	# apply gtk theme, icons, cursor & fonts
 	if [[ `pidof xsettingsd` ]]; then
@@ -429,11 +431,27 @@ apply_appearance() {
 	# inherit cursor theme
 	#~ if [[ -f "$HOME"/.icons/default/index.theme ]]; then
 		#~ sed -i -e "s/Inherits=.*/Inherits=$cursor_theme/g" "$HOME"/.icons/default/index.theme
-	#~ fi	
+	#~ fi
 
-	# apply qt theme using Kvantum
+	# apply gtk3 gtk4 themes using Gradience - libadwaita (gtk4) and adw-gtk3
+	cp -f "${HOME}"/.cache/wal/pywal.json "${HOME}"/.config/presets/user/pywal.json
+	gradience-cli apply -n pywal --gtk both
+
+	# apply qt theme, icons, fonts
+	sed -i -e "s/fixed=.*/fixed=\"$qt_font,-1,5,50,0,0,0,0,0,Regular\"/g" ${QT5FILE}
+	sed -i -e "s/general=.*/general=\"$qt_font,-1,5,50,0,0,0,0,0,Regular\"/g" ${QT5FILE}
+	sed -i -e "s/^style=.*/style=$qt_theme/g" ${QT5FILE}
+	sed -i -e "s/icon_theme=.*/icon_theme=$icon_theme/g" ${QT5FILE}
+	
+	sed -i -e "s/fixed=.*/fixed=\"$qt_font,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,Regular\"/g" ${QT6FILE}
+	sed -i -e "s/general=.*/general=\"$qt_font,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,Regular\"/g" ${QT6FILE}
+	sed -i -e "s/^style=.*/style=$qt_theme/g" ${QT6FILE}
+	sed -i -e "s/icon_theme=.*/icon_theme=$icon_theme/g" ${QT6FILE}
+	
+	# apply qt5 qt6 themes using Kvantum
 	cp "${HOME}"/.cache/wal/pywal.kvconfig "${PATH_CONF}"/Kvantum/pywal/pywal.kvconfig
 	cp "${HOME}"/.cache/wal/pywal.svg "${PATH_CONF}"/Kvantum/pywal/pywal.svg
+	kvantummanager --set pywal
 }
 
 # Dunst -------------------------------------

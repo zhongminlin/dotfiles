@@ -12,7 +12,7 @@ dark_value='0.30'
 
 # Rofi
 rofi_font='Noto Sans 10'
-rofi_icon='flattrcolor'
+rofi_icon='Gruvbox-Light'
 
 # Terminal
 terminal_font_name='NotoSansM Nerd Font Mono'
@@ -23,13 +23,15 @@ geany_colors='wal.conf'
 geany_font='NotoSansM Nerd Font Mono 10'
 
 # base16 colors for neovim, qtile, qutebrowser
-# set to 'pywal' to use pywal colors
+# set to 'pywal' to use pywal colors; set to anything else to use preset
 base16_colors='catppuccin'
 
 # Appearance
 gtk_font='Noto Sans 9'
-gtk_theme='Gruvbox-Dark'
-icon_theme='Gruvbox-Light'
+gtk_theme='adw-gtk3-dark'
+qt_font='Noto Sans,12'
+qt_theme='kvantum'
+icon_theme='Papirus-Dark'
 cursor_theme=''
 
 # Dunst
