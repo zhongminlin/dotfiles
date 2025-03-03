@@ -49,11 +49,13 @@ geany_font='NotoSansM Nerd Font Mono 10'
 
 # base16 colors for neovim, qtile, qutebrowser
 # set to 'pywal' to use pywal colors; set to anything else to use preset
-base16_colors='nord'
+base16_colors='gruvbox'
 
 # Appearance
 gtk_font='Noto Sans 9'
-gtk_theme='Gruvbox-Dark'
+gtk_theme='adw-gtk3-dark'
+qt_font='Noto Sans,12'
+qt_theme='kvantum'
 icon_theme='Gruvbox-Light'
 cursor_theme=''
 

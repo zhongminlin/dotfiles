@@ -135,7 +135,9 @@ keys = [
         **dmenu_theme,
         ))), 
     # launch script to save color theme in terminal
-    Key([mod, "shift"], "s", lazy.spawn("alacritty -e /home/zlin/.config/themes/pywal/save.sh"), desc="Save color theme"),
+    Key([mod, "shift"], "p", lazy.spawn("alacritty -e /home/zlin/.config/themes/pywal/save.sh"), desc="Save color theme"),
+    # save a desktop screenshot
+    Key([mod, "shift"], "s", lazy.spawn("bash -c 'maim /home/zlin/Pictures/Screenshots/$(date +%s).png'"), desc="Save desktop screenshot"),
 ]
 
 # Add key bindings to switch VTs in Wayland.
