@@ -16,13 +16,15 @@ chezmoi init git@github.com:zhongminlin/dotfiles.git --branch <branch_name> --ap
 ## download packages
 ### arch
 ```bash
+sudo pacman -S ~/.config/arch_pkglist
+# or
 sudo pacman -S ~/.config/arch_pkg
 ```
 ### void
 ```bash
 sudo xbps-install -S ~/.config/void_pkg
 ```
-### screenshots
+## screenshots
 ![morandi1](Pictures/Screenshots/morandi1.png)
 ![morandi2](Pictures/Screenshots/morandi2.png)
 ![catppuccin1](Pictures/Screenshots/catppuccin1.png)
