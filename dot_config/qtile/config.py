@@ -134,7 +134,7 @@ keys = [
         dmenu_prompt="Select a theme:",
         **dmenu_theme,
         ))), 
-    # launch save color script in terminal
+    # launch script to save color theme in terminal
     Key([mod, "shift"], "s", lazy.spawn("alacritty -e /home/zlin/.config/themes/pywal/save.sh"), desc="Save color theme"),
 ]
 
@@ -152,7 +152,7 @@ for vt in range(1, 8):
     )
 
 grouplabel = ["壹", "贰", "叁", "肆", "伍", "陆", "柒", "捌", "玖"]
-groups = [Group(f"{i+1}", label=grouplabel[i]) for i in range(5)]
+groups = [Group(f"{i+1}", label=grouplabel[i]) for i in range(9)]
 # groups = [Group(i) for i in "123456789"]
 
 for i in groups:
